@@ -4,7 +4,7 @@ import json
 import unicodedata
 import os
 
-def extract_text_from_url(url, document_id, output_dir="raw"):
+def extract_text_from_url(url, document_id, output_dir="data/raw"):
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -36,7 +36,7 @@ def extract_text_from_url(url, document_id, output_dir="raw"):
         os.makedirs(output_dir, exist_ok=True)
 
         # Save to file
-        output_path = os.path.join(output_dir, f"{document_id}_annotations.json")
+        output_path = os.path.join(output_dir, f"RAW_{document_id}.json")
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(annotation_data, f, indent=2, ensure_ascii=False)
 
