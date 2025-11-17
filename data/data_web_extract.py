@@ -4,7 +4,7 @@ import json
 import unicodedata
 import os
 
-def extract_text_from_url(url, document_id, output_dir="annotations"):
+def extract_text_from_url(url, document_id, output_dir="raw"):
     try:
         response = requests.get(url)
         response.raise_for_status()
