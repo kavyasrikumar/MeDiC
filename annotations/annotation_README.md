@@ -34,8 +34,9 @@ See/copy the template in the data/templates folder! Naming should be doc123_anno
    - misspelling
 5. Record stand and end positions of the phrase in the text
 Example
-| Text Span             | Start | End | Canonical Concept | Synonym Type | Notes               |
-| --------------------- | ----- | --- | ----------------- | ------------ | ------------------- |
-| heart attack          | 102   | 113 | C0027051          | exact        |                     |
+
+|Text Span|Start|End|Canonical Concept|Synonym Type|Notes|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|heart attack|102|113 | C0027051          | exact        |                     |
 | myocardial infarction | 250   | 270 | C0027051          | exact        |                     |
 | MI                    | 300   | 302 | C0027051          | abbreviation | Common abbreviation |
