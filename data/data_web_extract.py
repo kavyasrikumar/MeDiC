@@ -4,7 +4,7 @@ import json
 import unicodedata
 import os
 
-def extract_text_from_url(url, document_id, output_dir="data/raw"):
+def extract_text_from_url(url, document_id, output_dir=None):
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -22,7 +22,7 @@ def extract_text_from_url(url, document_id, output_dir="data/raw"):
         raw_text = unicodedata.normalize('NFKC', raw_text)
 
         # Clean up excessive whitespace but preserve newlines between paragraphs
-        lines = [ " ".join(line.split()) for line in raw_text.splitlines() if line.strip() ]
+        lines = [" ".join(line.split()) for line in raw_text.splitlines() if line.strip()]
         clean_text = "\n".join(lines)
 
         # Prepare annotation JSON structure
@@ -31,6 +31,11 @@ def extract_text_from_url(url, document_id, output_dir="data/raw"):
             "text": clean_text,
             "annotations": []
         }
+
+        # Set default output_dir to the repo's data/raw folder
+        if output_dir is None:
+            script_dir = os.path.dirname(os.path.abspath(__file__))  # directory of this script
+            output_dir = os.path.join(script_dir, "raw")             # always data/raw
 
         # Create output directory if it doesn't exist
         os.makedirs(output_dir, exist_ok=True)
@@ -46,6 +51,7 @@ def extract_text_from_url(url, document_id, output_dir="data/raw"):
     except Exception as e:
         print(f"Failed to extract from {url}: {e}")
         return None, None
+
 
 if __name__ == "__main__":
     url = input("Enter the URL to scrape: ").strip()
