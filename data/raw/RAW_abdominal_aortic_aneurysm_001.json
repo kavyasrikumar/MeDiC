@@ -1,0 +1,196 @@
+{
+  "document_id": "abdominal_aortic_aneurysm",
+  "text": "An abdominal aortic aneurysm occurs when a lower part of the body's main artery, called the aorta, gets weak and bulges outward like a balloon.\nAn abdominal aortic aneurysm occurs when a lower part of the body's main artery, called the aorta, gets weak and bulges outward like a balloon.\nAn abdominal aortic aneurysm is an enlarged area in the lower part of the body's main artery, called the aorta. The aorta goes from the heart through the center of the chest and belly area, called the abdomen.\nAn abdominal aortic aneurysm that ruptures can cause life-threatening bleeding.\nTreatment depends on how big the aneurysm is and how fast it's growing. Treatment may include regular health checkups and imaging tests to emergency surgery.\nAbdominal aortic aneurysms often grow slowly. You might not notice any symptoms. This makes them hard to find. Many start small and stay small. Others get bigger over time, sometimes quickly. Some aneurysms never rupture.\nIf you have an abdominal aortic aneurysm that's getting bigger, symptoms might include:\nIf you have pain, especially if pain is sudden and very bad, get medical help right away.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nAn aneurysm can grow in any part of the aorta. Most aortic aneurysms happen in the part of the aorta that's in the belly area, called the abdomen.\nThings that can cause an abdominal aortic aneurysm include:\nAbdominal aortic aneurysm risk factors include:\nIf you're at risk of an aortic aneurysm, medicines may be given to lower blood pressure and relieve stress on weakened arteries.\nPossible complications of abdominal aortic aneurysms include:\nA rupture can cause life-threatening bleeding inside the body. In general, the larger the aneurysm and the faster it grows, the greater the risk of rupture.\nSymptoms that an aortic aneurysm has ruptured can include:\nAortic aneurysms also increase the risk of developing blood clots in the area. If a blood clot breaks loose, it can block a blood vessel elsewhere in the body. Symptoms of a blocked blood vessel may include pain or reduced blood flow to the legs, toes, kidneys or belly area.\nTo prevent an abdominal aortic aneurysm or to keep one from worsening, take these steps:\nAbdominal aortic aneurysm care at Mayo Clinic\n63 Replies\nThu, Nov 20, 2025\n50 Replies\nSat, Nov 15, 2025\n33 Replies\nFri, Nov 14, 2025\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+  "annotations": [
+    {
+      "text_span_id": "span1",
+      "start_offset": 3,
+      "end_offset": 27,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span2",
+      "start_offset": 148,
+      "end_offset": 172,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span3",
+      "start_offset": 293,
+      "end_offset": 317,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span4",
+      "start_offset": 504,
+      "end_offset": 528,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span5",
+      "start_offset": 615,
+      "end_offset": 622,
+      "annotated_text": "aneurysm",
+      "canonical_concept": "C0002940",
+      "synonym_group_id": "syn_grp_003",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span6",
+      "start_offset": 741,
+      "end_offset": 766,
+      "annotated_text": "Abdominal aortic aneurysms",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span7",
+      "start_offset": 938,
+      "end_offset": 946,
+      "annotated_text": "aneurysms",
+      "canonical_concept": "C0002940",
+      "synonym_group_id": "syn_grp_003",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span8",
+      "start_offset": 979,
+      "end_offset": 1003,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span9",
+      "start_offset": 2114,
+      "end_offset": 2121,
+      "annotated_text": "aneurysm",
+      "canonical_concept": "C0002940",
+      "synonym_group_id": "syn_grp_003",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span10",
+      "start_offset": 2163,
+      "end_offset": 2178,
+      "annotated_text": "aortic aneurysms",
+      "canonical_concept": "C0003507",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span11",
+      "start_offset": 2284,
+      "end_offset": 2308,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span12",
+      "start_offset": 2320,
+      "end_offset": 2344,
+      "annotated_text": "Abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span13",
+      "start_offset": 2393,
+      "end_offset": 2407,
+      "annotated_text": "aortic aneurysm",
+      "canonical_concept": "C0003507",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span14",
+      "start_offset": 2525,
+      "end_offset": 2550,
+      "annotated_text": "abdominal aortic aneurysms",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span15",
+      "start_offset": 2652,
+      "end_offset": 2659,
+      "annotated_text": "aneurysm",
+      "canonical_concept": "C0002940",
+      "synonym_group_id": "syn_grp_003",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span16",
+      "start_offset": 2737,
+      "end_offset": 2751,
+      "annotated_text": "aortic aneurysm",
+      "canonical_concept": "C0003507",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span17",
+      "start_offset": 2780,
+      "end_offset": 2795,
+      "annotated_text": "Aortic aneurysms",
+      "canonical_concept": "C0003507",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span18",
+      "start_offset": 3071,
+      "end_offset": 3095,
+      "annotated_text": "abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span19",
+      "start_offset": 3147,
+      "end_offset": 3171,
+      "annotated_text": "Abdominal aortic aneurysm",
+      "canonical_concept": "C0000726",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    }
+  ]
+}
