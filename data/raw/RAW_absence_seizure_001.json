@@ -1,0 +1,256 @@
+{
+  "document_id": "absence_seizure_001",
+  "text": "Absence seizures involve brief, sudden lapses of consciousness. They're more common in children than in adults.\nA person having an absence seizure may stare blankly into space for a few seconds. Then the person typically returns quickly to being alert. This type of seizure usually doesn't lead to physical injury. But injury can happen if someone is driving a car or riding a bike when the seizure happens.\nAbsence seizures usually can be managed with antiseizure medicines. Some children who have them also develop other seizures, such as generalized tonic-clonic seizures or myoclonic seizures. Many children outgrow absence seizures in their teens.\nA simple absence seizure causes a vacant stare, which may be mistaken for a brief lapse in attention. The seizure lasts about 10 seconds, though it may last as long as 30 seconds. There's no confusion, headache or drowsiness after the seizure.\nSymptoms of absence seizures include:\nAfterward, there's usually no memory of the incident. But if the seizure is longer, the person may be aware of missed time. Some people have many episodes daily. When it happens, it can interfere with school or daily activities.\nA child may have absence seizures for some time before an adult notices them. This is because the seizures are so brief. A decline in a child's learning ability may be the first sign of the seizure disorder. Teachers may say the child has trouble paying attention or that a child is often daydreaming.\nContact your child's pediatrician:\nContact 911 or emergency services in your area:\nThere is a problem with information submitted for this request.\nReview/update the information highlighted below and resubmit the form.\nSign up for free and receive the latest on epilepsy treatment, care\nand management.\nErrorEmail field is required\nErrorInclude a valid email\naddress\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest health information you\nrequested in your inbox.\nPlease, try again in a couple of minutes\nAbsence seizures usually have a genetic cause.\nIn general, seizures occur as a result of a burst of electrical impulses from nerve cells in the brain, called neurons. Neurons typically send electrical and chemical signals across the synapses that connect them.\nIn people who have seizures, the brain's usual electrical activity is altered. During an absence seizure, these electrical signals repeat themselves over and over in a three-second pattern.\nPeople who have seizures also may have altered levels of the chemical messengers that help the nerve cells communicate with one another. These chemical messengers are called neurotransmitters.\nCertain factors are common to children who have absence seizures, including:\nWhile most children outgrow absence seizures, some:\nOther complications can include:\n35 Replies\nSat, Nov 29, 2025\n42 Replies\nThu, Nov 27, 2025\n22 Replies\nTue, Nov 25, 2025\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+  "annotations": [
+    {
+      "text_span_id": "span1",
+      "start_offset": 0,
+      "end_offset": 15,
+      "annotated_text": "Absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span2",
+      "start_offset": 132,
+      "end_offset": 146,
+      "annotated_text": "absence seizure",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span3",
+      "start_offset": 267,
+      "end_offset": 273,
+      "annotated_text": "seizure",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "semantic type: sign or symptom"
+    },
+    {
+      "text_span_id": "span4",
+      "start_offset": 392,
+      "end_offset": 398,
+      "annotated_text": "seizure",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "semantic type: sign or symptom"
+    },
+    {
+      "text_span_id": "span5",
+      "start_offset": 410,
+      "end_offset": 425,
+      "annotated_text": "Absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span6",
+      "start_offset": 525,
+      "end_offset": 532,
+      "annotated_text": "seizures",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural --> semantic type: sign or symptom"
+    },
+    {
+      "text_span_id": "span7",
+      "start_offset": 555,
+      "end_offset": 575,
+      "annotated_text": "tonic-clonic seizures",
+      "canonical_concept": "C0494475",
+      "synonym_group_id": "syn_grp_003",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span8",
+      "start_offset": 555,
+      "end_offset": 575,
+      "annotated_text": "myoclonic seizures",
+      "canonical_concept": "C4317123",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span9",
+      "start_offset": 622,
+      "end_offset": 637,
+      "annotated_text": "absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span10",
+      "start_offset": 665,
+      "end_offset": 679,
+      "annotated_text": "absence seizure",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span11",
+      "start_offset": 762,
+      "end_offset": 768,
+      "annotated_text": "seizure",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "semantic type: sign or symptom"
+    },
+    {
+      "text_span_id": "span12",
+      "start_offset": 891,
+      "end_offset": 897,
+      "annotated_text": "seizure",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "semantic type: sign or symptom"
+    },
+    {
+      "text_span_id": "span13",
+      "start_offset": 913,
+      "end_offset": 928,
+      "annotated_text": "absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span14",
+      "start_offset": 1005,
+      "end_offset": 1011,
+      "annotated_text": "seizure",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span15",
+      "start_offset": 1187,
+      "end_offset": 1202,
+      "annotated_text": "absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span16",
+      "start_offset": 1268,
+      "end_offset": 1275,
+      "annotated_text": "seizures",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span17",
+      "start_offset": 1360,
+      "end_offset": 1375,
+      "annotated_text": "seizure disorder",
+      "canonical_concept": "C0234533",
+      "synonym_group_id": "syn_grp_005",
+      "synonym_type": "exact",
+      "notes": "semantic type: disease or syndrome"
+    },
+    {
+      "text_span_id": "span18",
+      "start_offset": 1738,
+      "end_offset": 1745,
+      "annotated_text": "epilepsy",
+      "canonical_concept": "C0014544",
+      "synonym_group_id": "syn_grp_006",
+      "synonym_type": "exact",
+      "notes": "semantic type: disease or syndrome"
+    },
+    {
+      "text_span_id": "span19",
+      "start_offset": 2433,
+      "end_offset": 2448,
+      "annotated_text": "Absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span20",
+      "start_offset": 2493,
+      "end_offset": 2500,
+      "annotated_text": "seizures",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span21",
+      "start_offset": 2715,
+      "end_offset": 2722,
+      "annotated_text": "seizures",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span22",
+      "start_offset": 2785,
+      "end_offset": 2799,
+      "annotated_text": "absence seizure",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span23",
+      "start_offset": 2903,
+      "end_offset": 2910,
+      "annotated_text": "seizures",
+      "canonical_concept": "C0036572",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span24",
+      "start_offset": 3129,
+      "end_offset": 3144,
+      "annotated_text": "absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    },
+    {
+      "text_span_id": "span25",
+      "start_offset": 3187,
+      "end_offset": 3202,
+      "annotated_text": "absence seizures",
+      "canonical_concept": "C4316903",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "exact, plural"
+    }
+  ]
+}
