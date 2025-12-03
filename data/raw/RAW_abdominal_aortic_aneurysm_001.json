@@ -7,7 +7,7 @@
       "start_offset": 3,
       "end_offset": 27,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -17,7 +17,7 @@
       "start_offset": 148,
       "end_offset": 172,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -27,7 +27,7 @@
       "start_offset": 293,
       "end_offset": 317,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -37,7 +37,7 @@
       "start_offset": 504,
       "end_offset": 528,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -57,7 +57,7 @@
       "start_offset": 741,
       "end_offset": 766,
       "annotated_text": "Abdominal aortic aneurysms",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": "exact, plural"
@@ -77,7 +77,7 @@
       "start_offset": 979,
       "end_offset": 1003,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -97,7 +97,7 @@
       "start_offset": 2163,
       "end_offset": 2178,
       "annotated_text": "aortic aneurysms",
-      "canonical_concept": "C0003507",
+      "canonical_concept": "C0003486",
       "synonym_group_id": "syn_grp_002",
       "synonym_type": "exact",
       "notes": "exact, plural"
@@ -107,7 +107,7 @@
       "start_offset": 2284,
       "end_offset": 2308,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -117,7 +117,7 @@
       "start_offset": 2320,
       "end_offset": 2344,
       "annotated_text": "Abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -127,7 +127,7 @@
       "start_offset": 2393,
       "end_offset": 2407,
       "annotated_text": "aortic aneurysm",
-      "canonical_concept": "C0003507",
+      "canonical_concept": "C0003486",
       "synonym_group_id": "syn_grp_002",
       "synonym_type": "exact",
       "notes": ""
@@ -137,7 +137,7 @@
       "start_offset": 2525,
       "end_offset": 2550,
       "annotated_text": "abdominal aortic aneurysms",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": "exact, plural"
@@ -157,7 +157,7 @@
       "start_offset": 2737,
       "end_offset": 2751,
       "annotated_text": "aortic aneurysm",
-      "canonical_concept": "C0003507",
+      "canonical_concept": "C0003486",
       "synonym_group_id": "syn_grp_002",
       "synonym_type": "exact",
       "notes": ""
@@ -167,7 +167,7 @@
       "start_offset": 2780,
       "end_offset": 2795,
       "annotated_text": "Aortic aneurysms",
-      "canonical_concept": "C0003507",
+      "canonical_concept": "C0003486",
       "synonym_group_id": "syn_grp_002",
       "synonym_type": "exact",
       "notes": "exact, plural"
@@ -177,7 +177,7 @@
       "start_offset": 3071,
       "end_offset": 3095,
       "annotated_text": "abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""
@@ -187,7 +187,7 @@
       "start_offset": 3147,
       "end_offset": 3171,
       "annotated_text": "Abdominal aortic aneurysm",
-      "canonical_concept": "C0000726",
+      "canonical_concept": "C0162871",
       "synonym_group_id": "syn_grp_001",
       "synonym_type": "exact",
       "notes": ""

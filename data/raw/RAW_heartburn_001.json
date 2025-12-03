@@ -1,5 +1,216 @@
 {
   "document_id": "heartburn_001",
   "text": "Heartburn is a burning pain in the chest, just behind the breastbone. It's sometimes accompanied by a bitter or acidic taste in the mouth. The pain is often worse after eating, in the evening, or when lying down or bending over.\nOccasional heartburn is common and no cause for alarm. Most people can manage the discomfort of heartburn on their own with lifestyle changes and nonprescription medicines.\nHeartburn that is more frequent or interferes with your daily routine may be a symptom of a more serious condition that requires medical care.\nSymptoms of heartburn include:\nChest pain may be a symptom of a heart attack. Seek help right away if you have severe chest pain or pressure, especially when combined with pain in the arm or jaw or difficulty breathing.\nMake an appointment with a healthcare professional if:\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nHeartburn happens when stomach acid backs up into the tube that carries food from the mouth to the stomach, called the esophagus.\nTypically, when food is swallowed, a band of muscle around the bottom of the esophagus, called the lower esophageal sphincter, relaxes to allow food and liquid to flow down into the stomach. Then the muscle tightens again.\nIf the lower esophageal sphincter isn't working as it should, stomach acid can flow back up into the esophagus and cause heartburn. The acid reflux may be worse when you're bent over or lying down.\nAcid reflux happens when the sphincter muscle at the lower end of your esophagus isn't working as it should, allowing stomach acid to back up into your esophagus. This can cause heartburn and other signs and symptoms. Frequent or constant reflux can lead to gastroesophageal reflux disease (GERD).\nCertain foods and drinks can trigger heartburn in some people, including:\nBeing overweight or pregnant also can increase your risk of experiencing heartburn.\nHeartburn that happens often and interferes with your routine is considered gastroesophageal reflux disease (GERD). GERD treatment may require prescription medicines and, occasionally, surgery or other procedures. GERD can seriously damage your esophagus or lead to precancerous changes in the esophagus called Barrett's esophagus.\nSep 20, 2025\nCON-20373206\nYour GivingTuesday gift can go 2X as far.",
-  "annotations": []
+  "annotations": [
+    {
+      "text_span_id": "span1",
+      "start_offset": 0,
+      "end_offset": 8,
+      "annotated_text": "Heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span2",
+      "start_offset": 241,
+      "end_offset": 249,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span3",
+      "start_offset": 326,
+      "end_offset": 334,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span4",
+      "start_offset": 404,
+      "end_offset": 412,
+      "annotated_text": "Heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span5",
+      "start_offset": 560,
+      "end_offset": 568,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span6",
+      "start_offset": 1280,
+      "end_offset": 1288,
+      "annotated_text": "Heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span7",
+      "start_offset": 1756,
+      "end_offset": 1764,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span8",
+      "start_offset": 1771,
+      "end_offset": 1781,
+      "annotated_text": "acid reflux",
+      "canonical_concept": "C4317146",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "related",
+      "notes": "semantic types: finding"
+    },
+    {
+      "text_span_id": "span9",
+      "start_offset": 1834,
+      "end_offset": 1844,
+      "annotated_text": "Acid reflux",
+      "canonical_concept": "C4317146",
+      "synonym_group_id": "syn_grp_002",
+      "synonym_type": "related",
+      "notes": "semantic types: finding"
+    },
+    {
+      "text_span_id": "span10",
+      "start_offset": 2012,
+      "end_offset": 2020,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span11",
+      "start_offset": 2073,
+      "end_offset": 2078,
+      "annotated_text": "reflux",
+      "canonical_concept": "C0232483",
+      "synonym_group_id": "syn_grp_003",
+      "synonym_type": "related",
+      "notes": "semantic types: pathologic function"
+    },
+    {
+      "text_span_id": "span12",
+      "start_offset": 2092,
+      "end_offset": 2122,
+      "annotated_text": "gastroesophageal reflux disease",
+      "canonical_concept": "C0017168",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "related",
+      "notes": "semantic types: disease or syndrome"
+    },
+    {
+      "text_span_id": "span13",
+      "start_offset": 2125,
+      "end_offset": 2128,
+      "annotated_text": "GERD",
+      "canonical_concept": "C0017168",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "related/abbrev",
+      "notes": "semantic types: disease or syndrome"
+    },
+    {
+      "text_span_id": "span14",
+      "start_offset": 2170,
+      "end_offset": 2178,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span15",
+      "start_offset": 2281,
+      "end_offset": 2289,
+      "annotated_text": "heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span16",
+      "start_offset": 2293,
+      "end_offset": 2301,
+      "annotated_text": "Heartburn",
+      "canonical_concept": "C0018834",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": "semantic types: sign or symptom"
+    },
+    {
+      "text_span_id": "span17",
+      "start_offset": 2369,
+      "end_offset": 2399,
+      "annotated_text": "gastroesophageal reflux disease",
+      "canonical_concept": "C0017168",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "related",
+      "notes": "semantic types: disease or syndrome"
+    },
+    {
+      "text_span_id": "span18",
+      "start_offset": 2402,
+      "end_offset": 2405,
+      "annotated_text": "GERD",
+      "canonical_concept": "C0017168",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "related/abbrev",
+      "notes": "semantic types: disease or syndrome"
+    },
+    {
+      "text_span_id": "span19",
+      "start_offset": 2409,
+      "end_offset": 2412,
+      "annotated_text": "GERD",
+      "canonical_concept": "C0017168",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "related/abbrev",
+      "notes": "semantic types: disease or syndrome"
+    },
+    {
+      "text_span_id": "span20",
+      "start_offset": 2507,
+      "end_offset": 2510,
+      "annotated_text": "GERD",
+      "canonical_concept": "C0017168",
+      "synonym_group_id": "syn_grp_004",
+      "synonym_type": "related/abbrev",
+      "notes": "semantic types: disease or syndrome"
+    },
+    {
+      "text_span_id": "span21",
+      "start_offset": 2604,
+      "end_offset": 2622,
+      "annotated_text": "Barrett's esophagus",
+      "canonical_concept": "C0004763",
+      "synonym_group_id": "syn_grp_005",
+      "synonym_type": "related",
+      "notes": "semantic types: disease or syndrome"
+    }
+  ]
 }
