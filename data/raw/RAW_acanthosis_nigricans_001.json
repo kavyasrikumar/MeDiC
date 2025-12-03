@@ -1,0 +1,86 @@
+{
+  "document_id": "acanthosis_nigricans_001",
+  "text": "Acanthosis nigricans is a condition that causes areas of dark, thick velvety skin in body folds and creases. It typically affects the armpits, groin and neck.\nAcanthosis nigricans (ak-an-THOE-sis NIE-grih-kuns) tends to affect people with obesity. Rarely, the skin condition can be a sign of cancer in an internal organ, such as the stomach or liver.\nTreating the cause of acanthosis nigricans might restore the usual color and texture of the skin.\nAcanthosis nigricans is a skin condition that causes a dark discoloration in body folds and creases. It typically affects the armpits, groin and neck.\nThe main sign of acanthosis nigricans is dark, thick, velvety skin in body folds and creases. It often appears in the armpits, groin and back of the neck. It develops slowly. The affected skin might be itchy, have an odor and develop skin tags.\nConsult your health care provider if you notice changes in your skin — especially if the changes are sudden. You may have an underlying condition that needs treatment.\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nAcanthosis nigricans might be related to:\nThe risk of acanthosis nigricans is higher in people who have obesity. The risk is also higher in people with a family history of the condition, especially in families where obesity and type 2 diabetes are also common.\nPeople who have acanthosis nigricans are much more likely to develop type 2 diabetes.\nApr 30, 2025\nCON-20368968\nYour GivingTuesday gift can go 2X as far.",
+  "annotations": [
+    {
+      "text_span_id": "span1",
+      "start_offset": 0,
+      "end_offset": 19,
+      "annotated_text": "Acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span2",
+      "start_offset": 160,
+      "end_offset": 179,
+      "annotated_text": "Acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span3",
+      "start_offset": 375,
+      "end_offset": 394,
+      "annotated_text": "acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span4",
+      "start_offset": 452,
+      "end_offset": 471,
+      "annotated_text": "Acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span5",
+      "start_offset": 621,
+      "end_offset": 640,
+      "annotated_text": "acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span6",
+      "start_offset": 1473,
+      "end_offset": 1492,
+      "annotated_text": "Acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span7",
+      "start_offset": 1528,
+      "end_offset": 1547,
+      "annotated_text": "acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    },
+    {
+      "text_span_id": "span8",
+      "start_offset": 1752,
+      "end_offset": 1771,
+      "annotated_text": "acanthosis nigricans",
+      "canonical_concept": "C0000889",
+      "synonym_group_id": "syn_grp_001",
+      "synonym_type": "exact",
+      "notes": ""
+    }
+  ]
+}
