@@ -1,5 +1,156 @@
 {
   "document_id": "tuberculosis_001",
   "text": "Tuberculosis, also called TB, is a serious illness that mainly affects the lungs. The germs that cause tuberculosis are a type of bacteria.\nTuberculosis can spread when a person with the illness coughs, sneezes or sings. This can put tiny droplets with the germs into the air. Another person can then breathe in the droplets, and the germs enter the lungs.\nTuberculosis spreads easily where people gather in crowds or where people live in crowded conditions. People with HIV/AIDS and other people with weakened immune systems have a higher risk of catching tuberculosis than people with typical immune systems.\nMedicines called antibiotics can treat tuberculosis. But some forms of the bacteria no longer respond well to treatments.\nWhen TB germs survive and multiply in the lungs, it is called a TB infection. A TB infection may be in one of three stages. Symptoms are different in each stage.\nPrimary TB infection. The first stage is called the primary infection. Immune system cells find and capture the germs. The immune system may completely destroy the germs. But some captured germs may still survive and multiply.\nMost people don't have symptoms during a primary infection. Some people may get flu-like symptoms, such as:\nLatent TB infection. Primary infection is usually followed by the stage called latent TB infection. Immune system cells build a wall around lung tissue with TB germs. The germs can't do any more harm if the immune system keeps them under control. But the germs survive. There are no symptoms during latent TB infection.\nActive TB disease. Active TB disease happens when the immune system can't control an infection. Germs cause disease throughout the lungs or other parts of the body. Active TB disease may happen right after primary infection. But it usually happens after months or years of latent TB infection.\nSymptoms of active TB disease in the lungs usually begin gradually and worsen over a few weeks. They may include:\nActive TB disease outside the lungs. TB infection can spread from the lungs to other parts of the body. This is called extrapulmonary tuberculosis. Symptoms vary depending on what part of the body is infected. Common symptoms may include:\nActive TB disease in the voice box is outside the lungs, but it has symptoms more like disease in the lungs.\nCommon sites of active TB disease outside the lungs include:\nActive TB disease in children. Symptoms of active TB disease in children vary. Typically, symptoms by age may include the following:\nThe symptoms of tuberculosis are similar to symptoms of many different illnesses. See your healthcare professional if you have symptoms that don't improve with a few days of rest.\nGet emergency care if you have:\nGet immediate or urgent care if you:\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nTuberculosis is caused by a bacterium called Mycobacterium tuberculosis.\nPeople with active TB disease in the lungs or voice box can spread the disease. They release tiny droplets that carry the bacteria through the air. This can happen when they're speaking, singing, laughing, coughing or sneezing. A person can get an infection after inhaling the droplets.\nThe disease is more likely to spread when people spend a lot of time together in an indoor space. So the disease spreads easily in places where people live or work together for long periods. Also, the disease spreads more easily in crowded gatherings.\nA person with a latent TB infection cannot pass the disease to other people. A person taking medicine to treat active TB disease usually can't pass the disease after 2 to 3 weeks of treatment.\nSome forms of the TB bacteria have become drug resistant. This means that medicines that once cured the disease no longer work.\nThis happens, in part, because of naturally occurring genetic changes in bacteria. A random genetic change in a bacterium might give it some quality that makes it more likely to survive the attack of an antibiotic. If it does survive, then it can multiply.\nWhen antibiotic medicines aren't used correctly — or medicines fail to clear out all the bacteria for another reason — the conditions are ideal for more-resistant versions of the bacteria to take hold and multiply. If these bacteria are passed on to other people, a new drug-resistant strain can grow over time.\nProblems that can lead to such drug-resistant strains of bacteria include the following:\nAnyone can get tuberculosis, but certain factors increase the risk of getting an infection. Other factors increase the risk of an infection becoming active TB disease.\nThe Centers for Disease Control and Prevention recommends a TB test for people who have an increased risk of TB infection or active TB disease. Talk to your healthcare professional if you have one or more of the following risk factors.\nCertain living or working conditions make it easier for the disease to pass from one person to another. These conditions increase the risk of getting a TB infection:\nA weakened immune system increases the risk of a TB infection becoming active TB disease. Conditions or treatments that weaken the immune system include:\nThe risk of a TB infection becoming active TB disease changes with age.\nIf you test positive for latent TB infection, you may need to take medicines to prevent active TB disease.\nIf you have active TB disease, you'll need to take steps to prevent other people from getting an infection. You will take medicines for four, six or nine months. Take all of the medicines as directed during the entire time.\nDuring the first 2 to 3 weeks, you will be able to pass TB bacteria to others. Protect others with these steps:\nIn countries where tuberculosis is common, infants often are vaccinated with the bacille Calmette-Guerin (BCG) vaccine. This protects infants and toddlers who are more likely to have active TB disease in the fluid surrounding the brain and spinal cord.\nThe vaccine may not protect against disease in the lungs, which is more likely in the United States. Dozens of new TB vaccines are in various stages of development and testing.\nApr 24, 2025\nCON-20155769\nYour GivingTuesday gift can go 2X as far.",
-  "annotations": []
+  "annotations": [
+    {
+      "text_span_id": "span1",
+      "start_offset": 0,
+      "end_offset": 12,
+      "annotated_text": "Tuberculosis",
+      "canonical_concept": "C0041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "preferred",
+      "notes": "semantic type: disease or syndrome"
+    },
+    {
+      "text_span_id": "span2",
+      "start_offset": 26,
+      "end_offset": 28,
+      "annotated_text": "TB",
+      "canonical_concept": "C0041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "abbreviation",
+      "notes": "semantic type: disease or syndrome"
+    },
+    {
+      "text_span_id": "span3",
+      "start_offset": 75,
+      "end_offset": 80,
+      "annotated_text": "lungs",
+      "canonical_concept": "C0024109",
+      "synonym_group_id": "syn_lung",
+      "synonym_type": "preferred",
+      "notes": "semantic type: body part"
+    },
+    {
+      "text_span_id": "span4",
+      "start_offset": 130,
+      "end_offset": 138,
+      "annotated_text": "bacteria",
+      "canonical_concept": "C0004623",
+      "synonym_group_id": "syn_bacteria",
+      "synonym_type": "preferred",
+      "notes": "semantic type: organism"
+    },
+    {
+      "text_span_id": "span5",
+      "start_offset": 140,
+      "end_offset": 152,
+      "annotated_text": "Tuberculosis",
+      "canonical_concept": "C0041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "preferred",
+      "notes": "semantic type: disease or syndrome"
+    },
+    {
+      "text_span_id": "span6",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "coughs",
+      "canonical_concept": "C0010200",
+      "synonym_group_id": "syn_cough",
+      "synonym_type": "preferred",
+      "notes": "symptom"
+    },
+    {
+      "text_span_id": "span7",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "sneezes",
+      "canonical_concept": "C0037384",
+      "synonym_group_id": "syn_sneeze",
+      "synonym_type": "preferred",
+      "notes": "symptom"
+    },
+    {
+      "text_span_id": "span8",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "HIV/AIDS",
+      "canonical_concept": "C0520783",
+      "synonym_group_id": "syn_hiv",
+      "synonym_type": "preferred",
+      "notes": "disease; risk factor"
+    },
+    {
+      "text_span_id": "span9",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "immune system",
+      "canonical_concept": "C0021374",
+      "synonym_group_id": "syn_immune_system",
+      "synonym_type": "preferred",
+      "notes": "body system"
+    },
+    {
+      "text_span_id": "span10",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "TB infection",
+      "canonical_concept": "C041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "preferred",
+      "notes": "disease state"
+    },
+    {
+      "text_span_id": "span11",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "Primary TB infection",
+      "canonical_concept": "C041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "related",
+      "notes": "stage of disease"
+    },
+    {
+      "text_span_id": "span12",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "Latent TB infection",
+      "canonical_concept": "C041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "preferred",
+      "notes": "stage of TB"
+    },
+    {
+      "text_span_id": "span13",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "Active TB disease",
+      "canonical_concept": "C041296",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "preferred",
+      "notes": "disease state"
+    },
+    {
+      "text_span_id": "span14",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "Mycobacterium tuberculosis",
+      "canonical_concept": "C042196",
+      "synonym_group_id": "syn_tb",
+      "synonym_type": "preferred",
+      "notes": "organism"
+    },
+    {
+      "text_span_id": "span15",
+      "start_offset": xx,
+      "end_offset": xx,
+      "annotated_text": "BCG vaccine",
+      "canonical_concept": "C0199804",
+      "synonym_group_id": "syn_vaccine",
+      "synonym_type": "preferred",
+      "notes": "vaccine"
+    }
+  ]
 }
