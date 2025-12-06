@@ -108,7 +108,7 @@ def save_synonym_groups(synonym_groups, out_path):
 
 if __name__ == "__main__":
     medmentions_text_path = "corpus_pubtator.txt"  # Your MedMentions file path
-    mrconso_zip_path = "data/MRCONSO.zip"          # Your zipped MRCONSO file path
+    mrconso_zip_path = "MRCONSO.RRF.zip"           # Your zipped MRCONSO file path
     extract_dir = "data"                           # Extraction directory
     output_dir = "MM_MRCONSO_output_docs"          # Output folder for docs JSON
     synonym_out = "output_synonym_groups.json"     # Output file for synonym groups
