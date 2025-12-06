@@ -5,11 +5,10 @@
 ```
 data/
   raw/            
-  annotations/    
+  processed/    
 src/
-  embed/          
-  preprocessing/  # Text cleaning, tokenization, ontology loading, utilities
-docs/             # Annotation guidelines, model notes, design decisions, reports
+  annotate/       # All the annotators and necessary scripts 
+  preprocess/     # ONLY NEED RERUN UMLS_LOADER_NORMALIZE.py to update the synonym groups post annotation update
 models/           # Saved embeddings, vector stores, lightweight models
 ```
 ## Annotation Workflow
