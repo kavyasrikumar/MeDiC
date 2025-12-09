@@ -1,0 +1,1698 @@
+[
+  {
+    "document_id": "sample_doc_001",
+    "text": "A heart attack occurs when the flow of blood to the heart is severely reduced or blocked. The blockage is usually due to a buildup of fat, cholesterol and other substances in the heart (coronary) arteries. The fatty, cholesterol-containing deposits are called plaques. The process of plaque buildup is called atherosclerosis.\nSometimes, a plaque can rupture and form a clot that blocks blood flow. A lack of blood flow can damage or destroy part of the heart muscle.\nA heart attack occurs when an artery that sends blood and oxygen to the heart is blocked. Fatty, cholesterol-containing deposits build up over time, forming plaques in the heart's arteries. If a plaque ruptures, a blood clot can form. The clot can block arteries, causing a heart attack. During a heart attack, a lack of blood flow causes the tissue in the heart muscle to die.\nA heart attack is also called a myocardial infarction.\nPrompt treatment is needed for a heart attack to prevent death. Call 911 or emergency medical help if you think you might be having a heart attack.\nSymptoms of a heart attack vary. Some people have mild symptoms. Others have severe symptoms. Some people have no symptoms.\nCommon heart attack symptoms include:\nWomen may have atypical symptoms such as brief or sharp pain felt in the neck, arm or back. Sometimes, the first symptom sign of a heart attack is sudden cardiac arrest.\nSome heart attacks strike suddenly. But many people have warning signs and symptoms hours, days or weeks in advance. Chest pain or pressure (angina) that keeps happening and doesn't go away with rest may be an early warning sign. Angina is caused by a temporary decrease in blood flow to the heart.\nGet help right away if you think you're having a heart attack. Take these steps:\nTake aspirin, if recommended. Taking aspirin during a heart attack may reduce heart damage by preventing blood clotting.\nAspirin can interact with other drugs. Don't take an aspirin unless your care provider or emergency medical personnel say to do so. Don't delay calling 911 to take an aspirin. Call for emergency help first.\nIf someone is unconscious and you think they're having a heart attack, first call 911 or your local emergency number. Then check if the person is breathing and has a pulse. If the person isn't breathing or you don't find a pulse, only then should you begin CPR .\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nCoronary artery disease causes most heart attacks. In coronary artery disease, one or more of the heart (coronary) arteries are blocked. This is usually due to cholesterol-containing deposits called plaques. Plaques can narrow the arteries, reducing blood flow to the heart.\nIf a plaque breaks open, it can cause a blood clot in the heart.\nA heart attack may be caused by a complete or partial blockage of a heart (coronary) artery. One way to classify heart attacks is whether an electrocardiogram (ECG or EKG) shows some specific changes (ST elevation) that require emergency invasive treatment. Your health care provider may use ECG results to describe these types of heart attacks.\nNot all heart attacks are caused by blocked arteries. Other causes include:\nHeart attack risk factors include:\nHeart attack complications are often due to heart muscle damage. Potential complications of a heart attack include:\nIt's never too late to take steps to prevent a heart attack \u2014 even if you've already had one. Here are ways to prevent a heart attack.\nIt's also a good idea to learn Cardiopulmonary resuscitation (CPR) properly so you can help someone who's having a heart attack. Consider taking an accredited first-aid training course, including CPR and how to use an automated external defibrillator (AED).\nOct 09, 2023\nCON-20373087\nYour donation powers the future of medicine and helps save lives.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 2,
+        "end_offset": 14,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 469,
+        "end_offset": 481,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 741,
+        "end_offset": 753,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 764,
+        "end_offset": 776,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 847,
+        "end_offset": 859,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 933,
+        "end_offset": 945,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 1034,
+        "end_offset": 1046,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 1062,
+        "end_offset": 1074,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 1179,
+        "end_offset": 1191,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 1341,
+        "end_offset": 1353,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 1385,
+        "end_offset": 1397,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 1728,
+        "end_offset": 1740,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 1814,
+        "end_offset": 1826,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 2145,
+        "end_offset": 2157,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 2840,
+        "end_offset": 2852,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 3146,
+        "end_offset": 3158,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 3257,
+        "end_offset": 3269,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 3475,
+        "end_offset": 3487,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 3498,
+        "end_offset": 3510,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 3566,
+        "end_offset": 3578,
+        "annotated_text": "Heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 3601,
+        "end_offset": 3613,
+        "annotated_text": "Heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 3695,
+        "end_offset": 3707,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_23",
+        "start_offset": 3764,
+        "end_offset": 3776,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_24",
+        "start_offset": 3838,
+        "end_offset": 3850,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_25",
+        "start_offset": 3967,
+        "end_offset": 3979,
+        "annotated_text": "heart attack",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_26",
+        "start_offset": 139,
+        "end_offset": 150,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_27",
+        "start_offset": 217,
+        "end_offset": 228,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_28",
+        "start_offset": 564,
+        "end_offset": 575,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_29",
+        "start_offset": 2964,
+        "end_offset": 2975,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_30",
+        "start_offset": 309,
+        "end_offset": 324,
+        "annotated_text": "atherosclerosis",
+        "canonical_concept": "C0004114",
+        "synonym_group_id": "syn_atherosclerosis",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_31",
+        "start_offset": 179,
+        "end_offset": 204,
+        "annotated_text": "heart (coronary) arteries",
+        "canonical_concept": "C0205042",
+        "synonym_group_id": "syn_12139",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_32",
+        "start_offset": 2902,
+        "end_offset": 2927,
+        "annotated_text": "heart (coronary) arteries",
+        "canonical_concept": "C0205042",
+        "synonym_group_id": "syn_12139",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_33",
+        "start_offset": 260,
+        "end_offset": 266,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_34",
+        "start_offset": 284,
+        "end_offset": 290,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_35",
+        "start_offset": 339,
+        "end_offset": 345,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_36",
+        "start_offset": 624,
+        "end_offset": 630,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_37",
+        "start_offset": 662,
+        "end_offset": 668,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_38",
+        "start_offset": 3003,
+        "end_offset": 3009,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_39",
+        "start_offset": 3012,
+        "end_offset": 3018,
+        "annotated_text": "Plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_40",
+        "start_offset": 3084,
+        "end_offset": 3090,
+        "annotated_text": "plaque",
+        "canonical_concept": "C0004153",
+        "synonym_group_id": "syn_arterial_plaque",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_41",
+        "start_offset": 877,
+        "end_offset": 898,
+        "annotated_text": "myocardial infarction",
+        "canonical_concept": "C0027051",
+        "synonym_group_id": "syn_2919",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_42",
+        "start_offset": 369,
+        "end_offset": 373,
+        "annotated_text": "clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_43",
+        "start_offset": 687,
+        "end_offset": 691,
+        "annotated_text": "clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_44",
+        "start_offset": 706,
+        "end_offset": 710,
+        "annotated_text": "clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_45",
+        "start_offset": 1871,
+        "end_offset": 1875,
+        "annotated_text": "clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_46",
+        "start_offset": 3125,
+        "end_offset": 3129,
+        "annotated_text": "clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_47",
+        "start_offset": 1521,
+        "end_offset": 1527,
+        "annotated_text": "angina",
+        "canonical_concept": "C0002962",
+        "synonym_group_id": "syn_5441",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_48",
+        "start_offset": 1610,
+        "end_offset": 1616,
+        "annotated_text": "Angina",
+        "canonical_concept": "C0002962",
+        "synonym_group_id": "syn_5441",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_49",
+        "start_offset": 1497,
+        "end_offset": 1507,
+        "annotated_text": "Chest pain",
+        "canonical_concept": "C0002962",
+        "synonym_group_id": "syn_5441",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_50",
+        "start_offset": 1364,
+        "end_offset": 1378,
+        "annotated_text": "cardiac arrest",
+        "canonical_concept": "C0018790",
+        "synonym_group_id": "syn_10762",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_51",
+        "start_offset": 2804,
+        "end_offset": 2827,
+        "annotated_text": "Coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_52",
+        "start_offset": 2858,
+        "end_offset": 2881,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "document_id": "abdominal_aortic_aneurysm_001",
+    "text": "An abdominal aortic aneurysm occurs when a lower part of the body's main artery, called the aorta, gets weak and bulges outward like a balloon.\nAn abdominal aortic aneurysm occurs when a lower part of the body's main artery, called the aorta, gets weak and bulges outward like a balloon.\nAn abdominal aortic aneurysm is an enlarged area in the lower part of the body's main artery, called the aorta. The aorta goes from the heart through the center of the chest and belly area, called the abdomen.\nAn abdominal aortic aneurysm that ruptures can cause life-threatening bleeding.\nTreatment depends on how big the aneurysm is and how fast it's growing. Treatment may include regular health checkups and imaging tests to emergency surgery.\nAbdominal aortic aneurysms often grow slowly. You might not notice any symptoms. This makes them hard to find. Many start small and stay small. Others get bigger over time, sometimes quickly. Some aneurysms never rupture.\nIf you have an abdominal aortic aneurysm that's getting bigger, symptoms might include:\nIf you have pain, especially if pain is sudden and very bad, get medical help right away.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nAn aneurysm can grow in any part of the aorta. Most aortic aneurysms happen in the part of the aorta that's in the belly area, called the abdomen.\nThings that can cause an abdominal aortic aneurysm include:\nAbdominal aortic aneurysm risk factors include:\nIf you're at risk of an aortic aneurysm, medicines may be given to lower blood pressure and relieve stress on weakened arteries.\nPossible complications of abdominal aortic aneurysms include:\nA rupture can cause life-threatening bleeding inside the body. In general, the larger the aneurysm and the faster it grows, the greater the risk of rupture.\nSymptoms that an aortic aneurysm has ruptured can include:\nAortic aneurysms also increase the risk of developing blood clots in the area. If a blood clot breaks loose, it can block a blood vessel elsewhere in the body. Symptoms of a blocked blood vessel may include pain or reduced blood flow to the legs, toes, kidneys or belly area.\nTo prevent an abdominal aortic aneurysm or to keep one from worsening, take these steps:\nAbdominal aortic aneurysm care at Mayo Clinic\n63 Replies\nThu, Nov 20, 2025\n50 Replies\nSat, Nov 15, 2025\n33 Replies\nFri, Nov 14, 2025\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 3,
+        "end_offset": 28,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 147,
+        "end_offset": 172,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 291,
+        "end_offset": 316,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 501,
+        "end_offset": 526,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 736,
+        "end_offset": 761,
+        "annotated_text": "Abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 973,
+        "end_offset": 998,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 2266,
+        "end_offset": 2291,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 2301,
+        "end_offset": 2326,
+        "annotated_text": "Abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 2504,
+        "end_offset": 2529,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 3046,
+        "end_offset": 3071,
+        "annotated_text": "abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 3121,
+        "end_offset": 3146,
+        "annotated_text": "Abdominal aortic aneurysm",
+        "canonical_concept": "C0162872",
+        "synonym_group_id": "syn_25437",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 92,
+        "end_offset": 97,
+        "annotated_text": "aorta",
+        "canonical_concept": "C0003483",
+        "synonym_group_id": "syn_7135",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 236,
+        "end_offset": 241,
+        "annotated_text": "aorta",
+        "canonical_concept": "C0003483",
+        "synonym_group_id": "syn_7135",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 393,
+        "end_offset": 398,
+        "annotated_text": "aorta",
+        "canonical_concept": "C0003483",
+        "synonym_group_id": "syn_7135",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 404,
+        "end_offset": 409,
+        "annotated_text": "aorta",
+        "canonical_concept": "C0003483",
+        "synonym_group_id": "syn_7135",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 2134,
+        "end_offset": 2139,
+        "annotated_text": "aorta",
+        "canonical_concept": "C0003483",
+        "synonym_group_id": "syn_7135",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 2189,
+        "end_offset": 2194,
+        "annotated_text": "aorta",
+        "canonical_concept": "C0003483",
+        "synonym_group_id": "syn_7135",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 489,
+        "end_offset": 496,
+        "annotated_text": "abdomen",
+        "canonical_concept": "C0000726",
+        "synonym_group_id": "syn_9907",
+        "synonym_type": "",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 2232,
+        "end_offset": 2239,
+        "annotated_text": "abdomen",
+        "canonical_concept": "C0000726",
+        "synonym_group_id": "syn_9907",
+        "synonym_type": "",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 2416,
+        "end_offset": 2436,
+        "annotated_text": "lower blood pressure",
+        "canonical_concept": "C0020649",
+        "synonym_group_id": "syn_0618",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 2810,
+        "end_offset": 2820,
+        "annotated_text": "blood clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 2840,
+        "end_offset": 2850,
+        "annotated_text": "blood clot",
+        "canonical_concept": "C0302148",
+        "synonym_group_id": "syn_7405",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      }
+    ]
+  },
+  {
+    "document_id": "absence_seizure_001",
+    "text": "Absence seizures involve brief, sudden lapses of consciousness. They're more common in children than in adults.\nA person having an absence seizure may stare blankly into space for a few seconds. Then the person typically returns quickly to being alert. This type of seizure usually doesn't lead to physical injury. But injury can happen if someone is driving a car or riding a bike when the seizure happens.\nAbsence seizures usually can be managed with antiseizure medicines. Some children who have them also develop other seizures, such as generalized tonic-clonic seizures or myoclonic seizures. Many children outgrow absence seizures in their teens.\nA simple absence seizure causes a vacant stare, which may be mistaken for a brief lapse in attention. The seizure lasts about 10 seconds, though it may last as long as 30 seconds. There's no confusion, headache or drowsiness after the seizure.\nSymptoms of absence seizures include:\nAfterward, there's usually no memory of the incident. But if the seizure is longer, the person may be aware of missed time. Some people have many episodes daily. When it happens, it can interfere with school or daily activities.\nA child may have absence seizures for some time before an adult notices them. This is because the seizures are so brief. A decline in a child's learning ability may be the first sign of the seizure disorder. Teachers may say the child has trouble paying attention or that a child is often daydreaming.\nContact your child's pediatrician:\nContact 911 or emergency services in your area:\nThere is a problem with information submitted for this request.\nReview/update the information highlighted below and resubmit the form.\nSign up for free and receive the latest on epilepsy treatment, care\nand management.\nErrorEmail field is required\nErrorInclude a valid email\naddress\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest health information you\nrequested in your inbox.\nPlease, try again in a couple of minutes\nAbsence seizures usually have a genetic cause.\nIn general, seizures occur as a result of a burst of electrical impulses from nerve cells in the brain, called neurons. Neurons typically send electrical and chemical signals across the synapses that connect them.\nIn people who have seizures, the brain's usual electrical activity is altered. During an absence seizure, these electrical signals repeat themselves over and over in a three-second pattern.\nPeople who have seizures also may have altered levels of the chemical messengers that help the nerve cells communicate with one another. These chemical messengers are called neurotransmitters.\nCertain factors are common to children who have absence seizures, including:\nWhile most children outgrow absence seizures, some:\nOther complications can include:\n35 Replies\nSat, Nov 29, 2025\n42 Replies\nThu, Nov 27, 2025\n22 Replies\nTue, Nov 25, 2025\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 15,
+        "annotated_text": "Absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 131,
+        "end_offset": 146,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 408,
+        "end_offset": 423,
+        "annotated_text": "Absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 620,
+        "end_offset": 635,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 662,
+        "end_offset": 677,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 909,
+        "end_offset": 924,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 1181,
+        "end_offset": 1196,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 2413,
+        "end_offset": 2428,
+        "annotated_text": "Absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 2763,
+        "end_offset": 2778,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 3105,
+        "end_offset": 3120,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 3162,
+        "end_offset": 3177,
+        "annotated_text": "absence seizure",
+        "canonical_concept": "C4316903",
+        "synonym_group_id": "syn_abs_seizure",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 1727,
+        "end_offset": 1735,
+        "annotated_text": "epilepsy",
+        "canonical_concept": "C0014548",
+        "synonym_group_id": "syn_20044",
+        "synonym_type": "",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 578,
+        "end_offset": 595,
+        "annotated_text": "myoclonic seizure",
+        "canonical_concept": "C0014550",
+        "synonym_group_id": "syn_20045",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 3038,
+        "end_offset": 3054,
+        "annotated_text": "neurotransmitter",
+        "canonical_concept": "C0027908",
+        "synonym_group_id": "syn_2379",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      }
+    ]
+  },
+  {
+    "document_id": "acanthosis_nigricans_001",
+    "text": "Acanthosis nigricans is a condition that causes areas of dark, thick velvety skin in body folds and creases. It typically affects the armpits, groin and neck.\nAcanthosis nigricans (ak-an-THOE-sis NIE-grih-kuns) tends to affect people with obesity. Rarely, the skin condition can be a sign of cancer in an internal organ, such as the stomach or liver.\nTreating the cause of acanthosis nigricans might restore the usual color and texture of the skin.\nAcanthosis nigricans is a skin condition that causes a dark discoloration in body folds and creases. It typically affects the armpits, groin and neck.\nThe main sign of acanthosis nigricans is dark, thick, velvety skin in body folds and creases. It often appears in the armpits, groin and back of the neck. It develops slowly. The affected skin might be itchy, have an odor and develop skin tags.\nConsult your health care provider if you notice changes in your skin \u2014 especially if the changes are sudden. You may have an underlying condition that needs treatment.\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nAcanthosis nigricans might be related to:\nThe risk of acanthosis nigricans is higher in people who have obesity. The risk is also higher in people with a family history of the condition, especially in families where obesity and type 2 diabetes are also common.\nPeople who have acanthosis nigricans are much more likely to develop type 2 diabetes.\nApr 30, 2025\nCON-20368968\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 20,
+        "annotated_text": "Acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 159,
+        "end_offset": 179,
+        "annotated_text": "Acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 373,
+        "end_offset": 393,
+        "annotated_text": "acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 449,
+        "end_offset": 469,
+        "annotated_text": "Acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 617,
+        "end_offset": 637,
+        "annotated_text": "acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 1466,
+        "end_offset": 1486,
+        "annotated_text": "Acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 1520,
+        "end_offset": 1540,
+        "annotated_text": "acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 1743,
+        "end_offset": 1763,
+        "annotated_text": "acanthosis nigricans",
+        "canonical_concept": "C0000889",
+        "synonym_group_id": "syn_acan_nigri",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      }
+    ]
+  },
+  {
+    "document_id": "heart_disease_001",
+    "text": "Heart disease describes a range of conditions that affect the heart. Heart disease includes:\nMany forms of heart disease can be prevented or treated with healthy lifestyle choices.\nHeart disease symptoms depend on the type of heart disease.\nCoronary artery disease is a common heart condition that affects the major blood vessels that supply the heart muscle. A buildup of fats, cholesterol and other substances in and on the artery walls usually causes coronary artery disease. This buildup is called plaque. The buildup of plaque in the arteries is called atherosclerosis (ath-ur-o-skluh-ROE-sis). Atherosclerosis reduces blood flow to the heart and other parts of the body. It can lead to a heart attack, chest pain or a stroke.\nSymptoms of coronary artery disease can include:\nYou might not be diagnosed with coronary artery disease until you have a heart attack, angina, a stroke or heart failure. It's important to watch for heart symptoms. Talk with your healthcare team about any concerns. Heart disease can sometimes be found early with regular health checkups.\nStephen Kopecky, M.D., talks about the risk factors, symptoms and treatment of coronary artery disease (CAD). Learn how lifestyle changes can lower your risk.\n{Music playing}\nStephen Kopecky, M.D., Cardiovascular Disease, Mayo Clinic: I'm Dr. Stephen Kopecky, a cardiologist at Mayo Clinic. In this video, we'll cover the basics of coronary artery disease. What is it? Who gets it? The symptoms, diagnosis and treatment. Whether you're looking for answers for yourself or someone you love, we're here to give you the best information available.\nCoronary artery disease, also called CAD, is a condition that affects your heart. It is the most common heart disease in the United States. CAD happens when coronary arteries struggle to supply the heart with enough blood, oxygen and nutrients. Cholesterol deposits, or plaques, are almost always to blame. These buildups narrow your arteries, decreasing blood flow to your heart. This can cause chest pain, shortness of breath or even a heart attack. CAD typically takes a long time to develop. So often, patients don't know that they have it until there's a problem. But there are ways to prevent coronary artery disease, and ways to know if you're at risk and ways to treat it.\nAnyone can develop CAD. It begins when fats, cholesterols and other substances gather along the walls of your arteries. This process is called atherosclerosis. It's typically no cause for concern. However, too much buildup can lead to a blockage, obstructing blood flow. There are a number of risk factors, common red flags, that can contribute to this and ultimately lead to coronary artery disease. First, getting older can mean more damaged and narrowed arteries. Second, men are generally at a greater risk. But the risk for women increases after menopause. Existing health conditions matter, too. High blood pressure can thicken your arteries, narrowing your blood flow. High cholesterol levels can increase the rate of plaque buildup. Diabetes is also associated with higher risk, as is being overweight. Your lifestyle plays a large role as well. Physical inactivity, long periods of unrelieved stress in your life, an unhealthy diet and smoking can all increase your risk. And finally, family history. If a close relative was diagnosed at an early age with heart disease, you're at a greater risk. All these factors together can paint a picture of your risk for developing CAD.\nWhen coronary arteries become narrow, the heart doesn't get enough oxygen-rich blood. Remember, unlike most pumps, the heart has to pump its own energy supply. It's working harder with less. And you may begin to notice these signs and symptoms of pressure or tightness in your chest. This pain is called angina. It may feel like somebody is standing on your chest. When your heart can't pump enough blood to meet your body's needs, you might develop shortness of breath or extreme fatigue during activities. And if an artery becomes totally blocked, it leads to a heart attack. Classic signs and symptoms of a heart attack include crushing, substernal chest pain, pain in your shoulders or arms, shortness of breath, and sweating. However, many heart attacks have minimal or no symptoms and are found later during routine testing.\nDiagnosing CAD starts by talking to your doctor. They'll be able to look at your medical history, do a physical exam and order routine blood work. Depending on that, they may suggest one or more of the following tests: an electrocardiogram or ECG, an echocardiogram or soundwave test of the heart, stress test, cardiac catheterization and angiogram, or a cardiac CT scan.\nTreating coronary artery disease usually means making changes to your lifestyle. This might be eating healthier foods, exercising regularly, losing excess weight, reducing stress or quitting smoking. The good news is these changes can do a lot to improve your outlook. Living a healthier life translates to having healthier arteries. When necessary, treatment could involve drugs like aspirin, cholesterol-modifying medications, beta-blockers, or certain medical procedures like angioplasty or coronary artery bypass surgery.\nDiscovering you have coronary artery disease can be overwhelming. But be encouraged. There are things you can do to manage and live with this condition. Reducing cholesterol, lowering blood pressure, quitting tobacco, eating healthier, exercising and managing your stress can make a world of difference. Better heart health starts by educating yourself. So don't be afraid to seek out information and ask your doctors about coronary artery disease. If you'd like to learn even more about this condition, watch our other related videos or visit Mayoclinic.org. We wish you well.\nThe heart may beat too quickly, too slowly or irregularly. Heart arrhythmia symptoms can include:\nA congenital heart defect is a heart condition present at birth. Serious congenital heart defects usually are noticed soon after birth. Congenital heart defect symptoms in children could include:\nSome congenital heart defects may not be found until later in childhood or during adulthood. Symptoms may include:\nIn the beginning, cardiomyopathy may not cause noticeable symptoms. As the condition gets worse, symptoms may include:\nThe heart has four valves. The valves open and close to move blood through the heart. Many things can damage the heart valves. If a heart valve is narrowed, it's called stenosis. If a heart valve lets blood flow backward, it's called regurgitation.\nSymptoms of heart valve disease depend on which valve isn't working right. Symptoms may include:\nGet emergency medical help if you have these heart disease symptoms:\nAlways call 911 or your local emergency number if you think you might be having a heart attack.\nIf you think you may have symptoms of heart disease, make an appointment for a health checkup.\nHeart disease is easier to treat when found early.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nHeart disease causes depend on the specific type of heart disease. There are many different types of heart disease.\nA typical heart has two upper and two lower chambers. The upper chambers, the right and left atria, receive incoming blood. The lower chambers, the more muscular right and left ventricles, pump blood out of the heart. The heart valves are gates at the chamber openings. They keep blood flowing in the right direction.\nA typical heart has two upper and two lower chambers. The upper chambers, the right and left atria, receive incoming blood. The lower chambers, the more muscular right and left ventricles, pump blood out of the heart. The heart valves are gates at the chamber openings. They keep blood flowing in the right direction.\nTo understand the causes of heart disease, it may help to understand how the heart works.\nFour valves in the heart keep blood flowing in the right direction. These valves are:\nEach valve has flaps, called leaflets or cusps. The flaps open and close once during each heartbeat. If a valve flap doesn't open or close properly, less blood moves out of the heart to the rest of the body.\nThe heart's electrical system keeps the heart beating. The heart's electrical signals start in a group of cells at the top of the heart called the sinus node. They pass through a pathway between the upper and lower heart chambers called the atrioventricular (AV) node. The movement of the signals causes the heart to squeeze and pump blood.\nIf there's too much cholesterol in the blood, the cholesterol and other substances may form deposits called plaque. Plaque can cause an artery to become narrowed or blocked. If a plaque ruptures, a blood clot can form. Plaque and blood clots can reduce blood flow through an artery.\nIf there's too much cholesterol in the blood, the cholesterol and other substances may form deposits called plaque. Plaque can cause an artery to become narrowed or blocked. If a plaque ruptures, a blood clot can form. Plaque and blood clots can reduce blood flow through an artery.\nA buildup of fatty substances in the arteries, called atherosclerosis, is the most common cause of coronary artery disease. Risk factors include an unhealthy diet, lack of exercise, obesity, and smoking. Healthy-lifestyle choices can help lower the risk of atherosclerosis.\nCommon causes of arrhythmias or conditions that can lead to them include:\nA congenital heart defect happens while a baby is growing in the womb. Healthcare professionals aren't sure exactly what causes most congenital heart defects. But gene changes, some medical conditions, some medicines, and environmental or lifestyle factors may play a role.\nThe cause of cardiomyopathy depends on the type. There are three types:\nMany things can cause a damaged or diseased heart valve. Some people are born with heart valve disease. If this happens, it's called congenital heart valve disease.\nOther causes of heart valve disease can include:\nRisk factors for heart disease include:\nPossible complications of heart disease are:\nThe same lifestyle changes used to manage heart disease also may help prevent it. Try these heart-healthy tips:\nHeart disease care at Mayo Clinic\n244 Replies\nMon, Nov 17, 2025\n506 Replies\nSun, Nov 16, 2025\n48 Replies\nFri, Oct 31, 2025\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 13,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 69,
+        "end_offset": 82,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 107,
+        "end_offset": 120,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 181,
+        "end_offset": 194,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 226,
+        "end_offset": 239,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 998,
+        "end_offset": 1011,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 1720,
+        "end_offset": 1733,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 3362,
+        "end_offset": 3375,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 6709,
+        "end_offset": 6722,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 6867,
+        "end_offset": 6880,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 6924,
+        "end_offset": 6937,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 7933,
+        "end_offset": 7946,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 7985,
+        "end_offset": 7998,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 8034,
+        "end_offset": 8047,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 8713,
+        "end_offset": 8726,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 10901,
+        "end_offset": 10914,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 10950,
+        "end_offset": 10963,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 11011,
+        "end_offset": 11024,
+        "annotated_text": "heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 11081,
+        "end_offset": 11094,
+        "annotated_text": "Heart disease",
+        "canonical_concept": "C0018799",
+        "synonym_group_id": "syn_5613",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 241,
+        "end_offset": 264,
+        "annotated_text": "Coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 454,
+        "end_offset": 477,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 744,
+        "end_offset": 767,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_23",
+        "start_offset": 813,
+        "end_offset": 836,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_24",
+        "start_offset": 1150,
+        "end_offset": 1173,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_25",
+        "start_offset": 1403,
+        "end_offset": 1426,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_26",
+        "start_offset": 1616,
+        "end_offset": 1639,
+        "annotated_text": "Coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_27",
+        "start_offset": 2215,
+        "end_offset": 2238,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_28",
+        "start_offset": 2673,
+        "end_offset": 2696,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_29",
+        "start_offset": 4695,
+        "end_offset": 4718,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_30",
+        "start_offset": 5233,
+        "end_offset": 5256,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_31",
+        "start_offset": 5636,
+        "end_offset": 5659,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_32",
+        "start_offset": 10075,
+        "end_offset": 10098,
+        "annotated_text": "coronary artery disease",
+        "canonical_concept": "C1956346",
+        "synonym_group_id": "syn_2597",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_33",
+        "start_offset": 558,
+        "end_offset": 573,
+        "annotated_text": "atherosclerosis",
+        "canonical_concept": "C2711237",
+        "synonym_group_id": "syn_33611",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_34",
+        "start_offset": 600,
+        "end_offset": 615,
+        "annotated_text": "Atherosclerosis",
+        "canonical_concept": "C2711237",
+        "synonym_group_id": "syn_33611",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_35",
+        "start_offset": 2440,
+        "end_offset": 2455,
+        "annotated_text": "atherosclerosis",
+        "canonical_concept": "C2711237",
+        "synonym_group_id": "syn_33611",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_36",
+        "start_offset": 10030,
+        "end_offset": 10045,
+        "annotated_text": "atherosclerosis",
+        "canonical_concept": "C2711237",
+        "synonym_group_id": "syn_33611",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_37",
+        "start_offset": 10233,
+        "end_offset": 10248,
+        "annotated_text": "atherosclerosis",
+        "canonical_concept": "C2711237",
+        "synonym_group_id": "syn_33611",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_38",
+        "start_offset": 868,
+        "end_offset": 874,
+        "annotated_text": "angina",
+        "canonical_concept": "C0002962",
+        "synonym_group_id": "syn_5441",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_39",
+        "start_offset": 3787,
+        "end_offset": 3793,
+        "annotated_text": "angina",
+        "canonical_concept": "C0002962",
+        "synonym_group_id": "syn_5441",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_40",
+        "start_offset": 2848,
+        "end_offset": 2857,
+        "annotated_text": "menopause",
+        "canonical_concept": "C0025320",
+        "synonym_group_id": "syn_15733",
+        "synonym_type": "",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_41",
+        "start_offset": 4557,
+        "end_offset": 4560,
+        "annotated_text": "ECG",
+        "canonical_concept": "C1623258",
+        "synonym_group_id": "syn_0327",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_42",
+        "start_offset": 4536,
+        "end_offset": 4553,
+        "annotated_text": "electrocardiogram",
+        "canonical_concept": "C1623258",
+        "synonym_group_id": "syn_0327",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_43",
+        "start_offset": 4677,
+        "end_offset": 4684,
+        "annotated_text": "CT scan",
+        "canonical_concept": "C1699633",
+        "synonym_group_id": "syn_4889",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_44",
+        "start_offset": 5165,
+        "end_offset": 5176,
+        "annotated_text": "angioplasty",
+        "canonical_concept": "C0162577",
+        "synonym_group_id": "syn_5728",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_45",
+        "start_offset": 5890,
+        "end_offset": 5913,
+        "annotated_text": "congenital heart defect",
+        "canonical_concept": "C0018798",
+        "synonym_group_id": "syn_18420",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_46",
+        "start_offset": 5961,
+        "end_offset": 5984,
+        "annotated_text": "congenital heart defect",
+        "canonical_concept": "C0018798",
+        "synonym_group_id": "syn_18420",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_47",
+        "start_offset": 6024,
+        "end_offset": 6047,
+        "annotated_text": "Congenital heart defect",
+        "canonical_concept": "C0018798",
+        "synonym_group_id": "syn_18420",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_48",
+        "start_offset": 6089,
+        "end_offset": 6112,
+        "annotated_text": "congenital heart defect",
+        "canonical_concept": "C0018798",
+        "synonym_group_id": "syn_18420",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_49",
+        "start_offset": 10326,
+        "end_offset": 10349,
+        "annotated_text": "congenital heart defect",
+        "canonical_concept": "C0018798",
+        "synonym_group_id": "syn_18420",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_50",
+        "start_offset": 10457,
+        "end_offset": 10480,
+        "annotated_text": "congenital heart defect",
+        "canonical_concept": "C0018798",
+        "synonym_group_id": "syn_18420",
+        "synonym_type": "preferred",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "document_id": "heartburn_001",
+    "text": "Heartburn is a burning pain in the chest, just behind the breastbone. It's sometimes accompanied by a bitter or acidic taste in the mouth. The pain is often worse after eating, in the evening, or when lying down or bending over.\nOccasional heartburn is common and no cause for alarm. Most people can manage the discomfort of heartburn on their own with lifestyle changes and nonprescription medicines.\nHeartburn that is more frequent or interferes with your daily routine may be a symptom of a more serious condition that requires medical care.\nSymptoms of heartburn include:\nChest pain may be a symptom of a heart attack. Seek help right away if you have severe chest pain or pressure, especially when combined with pain in the arm or jaw or difficulty breathing.\nMake an appointment with a healthcare professional if:\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nHeartburn happens when stomach acid backs up into the tube that carries food from the mouth to the stomach, called the esophagus.\nTypically, when food is swallowed, a band of muscle around the bottom of the esophagus, called the lower esophageal sphincter, relaxes to allow food and liquid to flow down into the stomach. Then the muscle tightens again.\nIf the lower esophageal sphincter isn't working as it should, stomach acid can flow back up into the esophagus and cause heartburn. The acid reflux may be worse when you're bent over or lying down.\nAcid reflux happens when the sphincter muscle at the lower end of your esophagus isn't working as it should, allowing stomach acid to back up into your esophagus. This can cause heartburn and other signs and symptoms. Frequent or constant reflux can lead to gastroesophageal reflux disease (GERD).\nCertain foods and drinks can trigger heartburn in some people, including:\nBeing overweight or pregnant also can increase your risk of experiencing heartburn.\nHeartburn that happens often and interferes with your routine is considered gastroesophageal reflux disease (GERD). GERD treatment may require prescription medicines and, occasionally, surgery or other procedures. GERD can seriously damage your esophagus or lead to precancerous changes in the esophagus called Barrett's esophagus.\nSep 20, 2025\nCON-20373206\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 9,
+        "annotated_text": "Heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 240,
+        "end_offset": 249,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 325,
+        "end_offset": 334,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 402,
+        "end_offset": 411,
+        "annotated_text": "Heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 557,
+        "end_offset": 566,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 1273,
+        "end_offset": 1282,
+        "annotated_text": "Heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 1747,
+        "end_offset": 1756,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 2002,
+        "end_offset": 2011,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 2159,
+        "end_offset": 2168,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 2269,
+        "end_offset": 2278,
+        "annotated_text": "heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 2280,
+        "end_offset": 2289,
+        "annotated_text": "Heartburn",
+        "canonical_concept": "C0018834",
+        "synonym_group_id": "syn_heartburn",
+        "synonym_type": "preferred",
+        "notes": "layman term"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 1762,
+        "end_offset": 1773,
+        "annotated_text": "acid reflux",
+        "canonical_concept": "C4317146",
+        "synonym_group_id": "syn_acid_reflux",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 1824,
+        "end_offset": 1835,
+        "annotated_text": "Acid reflux",
+        "canonical_concept": "C4317146",
+        "synonym_group_id": "syn_acid_reflux",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 2082,
+        "end_offset": 2113,
+        "annotated_text": "gastroesophageal reflux disease",
+        "canonical_concept": "C0017168",
+        "synonym_group_id": "syn_GERD",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 2356,
+        "end_offset": 2387,
+        "annotated_text": "gastroesophageal reflux disease",
+        "canonical_concept": "C0017168",
+        "synonym_group_id": "syn_GERD",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 2115,
+        "end_offset": 2119,
+        "annotated_text": "GERD",
+        "canonical_concept": "C0017168",
+        "synonym_group_id": "syn_GERD",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 2389,
+        "end_offset": 2393,
+        "annotated_text": "GERD",
+        "canonical_concept": "C0017168",
+        "synonym_group_id": "syn_GERD",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 2396,
+        "end_offset": 2400,
+        "annotated_text": "GERD",
+        "canonical_concept": "C0017168",
+        "synonym_group_id": "syn_GERD",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 2494,
+        "end_offset": 2498,
+        "annotated_text": "GERD",
+        "canonical_concept": "C0017168",
+        "synonym_group_id": "syn_GERD",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 2591,
+        "end_offset": 2610,
+        "annotated_text": "Barrett's esophagus",
+        "canonical_concept": "C0004763",
+        "synonym_group_id": "syn_bar_esoph",
+        "synonym_type": "alt",
+        "notes": ""
+      }
+    ]
+  }
+]
