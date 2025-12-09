@@ -3402,5 +3402,1833 @@
         "notes": "related vector"
       }
     ]
+  },
+  {
+    "document_id": "hyperhidrosis_001",
+    "text": "Hyperhidrosis (hi-pur-hi-DROE-sis) is excessive sweating that's not always related to heat or exercise. You may sweat so much that it soaks through your clothes or drips off your hands. Heavy sweating can disrupt your day and cause social anxiety and embarrassment.\nHyperhidrosis treatment usually helps. It often begins with antiperspirants. If these don't help, you may need to try different medications and therapies. In severe cases, your health care provider may suggest surgery to remove the sweat glands or to disconnect the nerves related to producing too much sweat.\nSometimes an underlying condition may be found and treated.\nThe main symptom of hyperhidrosis is heavy sweating. This goes beyond the sweating from being in a hot environment, exercising, or feeling anxious or stressed. The type of hyperhidrosis that usually affects the hands, feet, underarms or face causes at least one episode a week when you're awake. And the sweating usually happens on both sides of the body.\nSometimes excessive sweating is a sign of a serious condition.\nSeek immediate medical attention if you have heavy sweating with dizziness, pain in the chest, throat, jaw, arms, shoulders or throat, or cold skin and a rapid pulse.\nSee your health care provider if:\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nEccrine sweat glands occur over most of the body and open directly onto the skin's surface. Apocrine glands open into the hair follicle, leading to the surface of the skin. Apocrine glands develop in areas with many hair follicles, such as on the scalp, armpits and groin. Eccrine sweat glands are involved in hyperhidrosis, though apocrine glands may play a role as well.\nEccrine sweat glands occur over most of the body and open directly onto the skin's surface. Apocrine glands open into the hair follicle, leading to the surface of the skin. Apocrine glands develop in areas with many hair follicles, such as on the scalp, armpits and groin. Eccrine sweat glands are involved in hyperhidrosis, though apocrine glands may play a role as well.\nSweating is the body's mechanism to cool itself. The nervous system automatically triggers sweat glands when your body temperature rises. Sweating also occurs, especially on your palms, when you're nervous.\nPrimary hyperhidrosis is caused by faulty nerve signals that trigger eccrine sweat glands to become overactive. It usually affects the palms, soles, underarms and sometimes the face.\nThere is no medical cause for this type of hyperhidrosis. It can run in families.\nSecondary hyperhidrosis is caused by an underlying medical condition or by taking certain medications, such as pain relievers, antidepressants, and some diabetes and hormonal medications. This type of hyperhidrosis may cause sweating all over the body. Conditions that might cause it include:\nRisk factors for hyperhidrosis include:\nComplications of hyperhidrosis include:\nHyperhidrosis care at Mayo Clinic\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 13,
+        "annotated_text": "Hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 266,
+        "end_offset": 279,
+        "annotated_text": "Hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 656,
+        "end_offset": 669,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 808,
+        "end_offset": 821,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 2524,
+        "end_offset": 2537,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 2897,
+        "end_offset": 2910,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 3175,
+        "end_offset": 3188,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 3393,
+        "end_offset": 3406,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 3442,
+        "end_offset": 3455,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 3633,
+        "end_offset": 3646,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 3742,
+        "end_offset": 3755,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 3782,
+        "end_offset": 3795,
+        "annotated_text": "hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 3805,
+        "end_offset": 3818,
+        "annotated_text": "Hyperhidrosis",
+        "canonical_concept": "C0020455",
+        "synonym_group_id": "syn_hyperhidrosis",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 2214,
+        "end_offset": 2234,
+        "annotated_text": "Eccrine sweat glands",
+        "canonical_concept": "C0013583",
+        "synonym_group_id": "syn_eccrine_sweat_gland",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 2487,
+        "end_offset": 2507,
+        "annotated_text": "Eccrine sweat glands",
+        "canonical_concept": "C0013583",
+        "synonym_group_id": "syn_eccrine_sweat_gland",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 2587,
+        "end_offset": 2607,
+        "annotated_text": "Eccrine sweat glands",
+        "canonical_concept": "C0013583",
+        "synonym_group_id": "syn_eccrine_sweat_gland",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 2860,
+        "end_offset": 2880,
+        "annotated_text": "Eccrine sweat glands",
+        "canonical_concept": "C0013583",
+        "synonym_group_id": "syn_eccrine_sweat_gland",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 3236,
+        "end_offset": 3256,
+        "annotated_text": "eccrine sweat glands",
+        "canonical_concept": "C0013583",
+        "synonym_group_id": "syn_eccrine_sweat_gland",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 2341,
+        "end_offset": 2349,
+        "annotated_text": "follicle",
+        "canonical_concept": "C1571705",
+        "synonym_group_id": "syn_8331",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 2435,
+        "end_offset": 2443,
+        "annotated_text": "follicle",
+        "canonical_concept": "C1571705",
+        "synonym_group_id": "syn_8331",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 2714,
+        "end_offset": 2722,
+        "annotated_text": "follicle",
+        "canonical_concept": "C1571705",
+        "synonym_group_id": "syn_8331",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 2808,
+        "end_offset": 2816,
+        "annotated_text": "follicle",
+        "canonical_concept": "C1571705",
+        "synonym_group_id": "syn_8331",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      }
+    ]
+  },
+  {
+    "document_id": "meningitis_001",
+    "text": "Meningitis is an infection and swelling, called inflammation, of the fluid and membranes around the brain and spinal cord. These membranes are called meninges.\nThe inflammation from meningitis most often triggers symptoms such as headache, fever and a stiff neck.\nViral infections are the most common cause of meningitis in the United States. Bacteria, parasites and fungi also can cause it. Sometimes meningitis improves in a few weeks without treatment. But meningitis also can cause death. It often needs quick treatment with antibiotics.\nSeek medical care right away if you think that you or someone in your family has meningitis. For meningitis caused by bacteria, early treatment can prevent serious complications.\nEarly meningitis symptoms may be like those of the flu. Symptoms may come on over several hours or over a few days.\nThe following may be symptoms of meningitis in people older than 2 years:\nThe following may be symptoms of meningitis in newborns and infants:\nSeek medical care right away if you or someone in your family has meningitis symptoms such as:\nBacterial meningitis can cause death within days without fast antibiotic treatment. Delayed treatment also increases the risk of long-term brain damage.\nTalk with your healthcare professional if you've been near someone with meningitis. That may be a family member or someone you live or work with. You may need to take medicines to prevent getting an infection.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nMeningitis is an infection and swelling and irritation, called inflammation, of the fluid and three membranes that protect the brain and spinal cord. The three membranes are called meninges. The tough outer membrane is called the dura mater, and the delicate inner layer is the pia mater.\nMeningitis is an infection and swelling and irritation, called inflammation, of the fluid and three membranes that protect the brain and spinal cord. The three membranes are called meninges. The tough outer membrane is called the dura mater, and the delicate inner layer is the pia mater.\nViral infections are the most common cause of meningitis in the United States, followed by bacterial infections and, rarely, fungal and parasitic infections. Because bacterial infections can lead to death, finding the cause is vital.\nGerms that enter the bloodstream and travel to the brain and spinal cord cause bacterial meningitis. But bacterial meningitis also can happen when bacteria directly enter the meninges. This may be caused by an ear or sinus infection or a skull fracture. Rarely, some surgeries can cause it.\nSeveral strains of bacteria can cause bacterial meningitis. The most common are:\nNeisseria meningitidis. This germ causes a bacterial meningitis called meningococcal meningitis. These germs most often cause an upper respiratory infection. But they can cause meningococcal meningitis when they enter the bloodstream.\nThis is an easy-to-catch infection that affects mainly teenagers and young adults. It may cause local outbreaks in college dorms, boarding schools and military bases.\nA vaccine can help prevent infection. Even if vaccinated, anybody who has been in close contact with a person with meningococcal meningitis should get an oral antibiotic. This can help prevent the disease.\nViral meningitis is most often mild and clears on its own. A group of viruses known as enteroviruses is most often the cause in the United States. Enteroviruses are most common in late summer and early fall. Viruses such as herpes simplex virus, HIV, mumps virus, West Nile virus and others also can cause viral meningitis.\nChronic meningitis is meningitis whose symptoms last at least four weeks without letup. There are many causes of chronic meningitis. Symptoms can be like those of new-onset meningitis. But they come on slower and last longer. Symptoms may include headache, fever, vomiting and brain fog.\nFungal meningitis isn't common in the United States. It may act like bacterial meningitis. But symptoms may start slower and build over time. Breathing in fungal spores found in soil, decaying wood and bird droppings can be the cause.\nFungal meningitis doesn't spread from person to person. Cryptococcal meningitis is a common fungal form of the disease. It affects people with weakened immune systems, such as from AIDS. It can cause death if not treated with an antifungal medicine. Even with treatment, fungal meningitis may come back.\nThis type of meningitis is a rare complication of tuberculosis, also called TB. But it can be serious. Like fungal meningitis, its symptoms can start slowly and build up over days to weeks. Tuberculosis passes easily from person to person. Tuberculous meningitis needs treatment with TB medicines.\nParasites can cause a rare type of meningitis called eosinophilic meningitis. A tapeworm infection in the brain or cerebral malaria also can cause parasitic meningitis. Amoebic meningitis is a rare type that sometimes comes from swimming in fresh water. It can quickly become life-threatening.\nThe main parasites that cause meningitis most often infect animals. People can get infected by eating foods that have these parasites. Parasitic meningitis isn't spread from person to person.\nCauses of meningitis that aren't infections include chemical reactions, medicines, allergies, some types of cancer and diseases such as sarcoidosis.\nRisk factors for meningitis include:\nMeningitis complications can be serious. The longer someone has the disease without treatment, the greater the risk of seizures and long-term nervous system damage. Damage can include:\nCommon germs that can cause meningitis can spread through coughing, sneezing or kissing. Germs also can spread by shared eating utensils, toothbrushes or cigarettes.\nThese steps can help prevent meningitis:\nVaccinations can help prevent some forms of bacterial meningitis. Vaccinations include:\nPneumococcal polysaccharide vaccine. This vaccine also is called PPSV23. Older children and adults who need protection from pneumococcal germs might get this vaccine. The CDC suggests the PPSV23 vaccine for all adults older than 65.\nIt's also for younger adults and children ages 2 and older who have weak immune systems or ongoing illnesses such as heart disease, diabetes or sickle cell anemia. And it's for anyone who doesn't have a spleen.\nMeningococcal conjugate vaccine. This vaccine also is called MenACWY. The CDC suggests giving a single dose of MenACWY to children ages 11 to 12, with a booster shot given at age 16. Children who get the first vaccine between ages 13 and 15 can have the booster between ages 16 and 18. Those who get the first shot at age 16 or older don't need a booster.\nChildren between the ages of 2 months and 10 years who are at high risk of bacterial meningitis can get this vaccine. So can children in this age range who have been around someone with the disease. It's also a vaccine for people who haven't been vaccinated who have been exposed to meningitis but aren't sick.\nSerogroup B meningococcal vaccine (MenB). The CDC suggests this vaccine for adults and children 10 years and older who are at increased risk of meningococcal disease. They include adults and children with sickle cell disease, those who have a damaged spleen or those who have had their spleen removed.\nThis vaccine also is for people with the rare immune disorder called complement component deficiency or who take certain medicines. People who are exposed to an outbreak of serogroup B meningococcal disease also might get this vaccine.\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 10,
+        "annotated_text": "Meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 182,
+        "end_offset": 192,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 310,
+        "end_offset": 320,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 402,
+        "end_offset": 412,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 460,
+        "end_offset": 470,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 623,
+        "end_offset": 633,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 639,
+        "end_offset": 649,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 727,
+        "end_offset": 737,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 870,
+        "end_offset": 880,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 944,
+        "end_offset": 954,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 1046,
+        "end_offset": 1056,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 1085,
+        "end_offset": 1095,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 1300,
+        "end_offset": 1310,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 2396,
+        "end_offset": 2406,
+        "annotated_text": "Meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 2685,
+        "end_offset": 2695,
+        "annotated_text": "Meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 3020,
+        "end_offset": 3030,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 3297,
+        "end_offset": 3307,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 3323,
+        "end_offset": 3333,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 3547,
+        "end_offset": 3557,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 3633,
+        "end_offset": 3643,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 3665,
+        "end_offset": 3675,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 3771,
+        "end_offset": 3781,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_23",
+        "start_offset": 4111,
+        "end_offset": 4121,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_24",
+        "start_offset": 4194,
+        "end_offset": 4204,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_25",
+        "start_offset": 4500,
+        "end_offset": 4510,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_26",
+        "start_offset": 4520,
+        "end_offset": 4530,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_27",
+        "start_offset": 4534,
+        "end_offset": 4544,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_28",
+        "start_offset": 4633,
+        "end_offset": 4643,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_29",
+        "start_offset": 4685,
+        "end_offset": 4695,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_30",
+        "start_offset": 4807,
+        "end_offset": 4817,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_31",
+        "start_offset": 4879,
+        "end_offset": 4889,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_32",
+        "start_offset": 5042,
+        "end_offset": 5052,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_33",
+        "start_offset": 5104,
+        "end_offset": 5114,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_34",
+        "start_offset": 5313,
+        "end_offset": 5323,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_35",
+        "start_offset": 5352,
+        "end_offset": 5362,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_36",
+        "start_offset": 5454,
+        "end_offset": 5464,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_37",
+        "start_offset": 5591,
+        "end_offset": 5601,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_38",
+        "start_offset": 5672,
+        "end_offset": 5682,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_39",
+        "start_offset": 5703,
+        "end_offset": 5713,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_40",
+        "start_offset": 5794,
+        "end_offset": 5804,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_41",
+        "start_offset": 5814,
+        "end_offset": 5824,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_42",
+        "start_offset": 5961,
+        "end_offset": 5971,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_43",
+        "start_offset": 6076,
+        "end_offset": 6086,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_44",
+        "start_offset": 6133,
+        "end_offset": 6143,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_45",
+        "start_offset": 6289,
+        "end_offset": 6299,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_46",
+        "start_offset": 6309,
+        "end_offset": 6319,
+        "annotated_text": "Meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_47",
+        "start_offset": 6522,
+        "end_offset": 6532,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_48",
+        "start_offset": 6689,
+        "end_offset": 6699,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_49",
+        "start_offset": 6755,
+        "end_offset": 6765,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_50",
+        "start_offset": 7674,
+        "end_offset": 7684,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_51",
+        "start_offset": 7872,
+        "end_offset": 7882,
+        "annotated_text": "meningitis",
+        "canonical_concept": "C0025289",
+        "synonym_group_id": "syn_12217",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_52",
+        "start_offset": 1075,
+        "end_offset": 1095,
+        "annotated_text": "Bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_53",
+        "start_offset": 3287,
+        "end_offset": 3307,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_54",
+        "start_offset": 3313,
+        "end_offset": 3333,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_55",
+        "start_offset": 3537,
+        "end_offset": 3557,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_56",
+        "start_offset": 3623,
+        "end_offset": 3643,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_57",
+        "start_offset": 4869,
+        "end_offset": 4889,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_58",
+        "start_offset": 6745,
+        "end_offset": 6765,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_59",
+        "start_offset": 7664,
+        "end_offset": 7684,
+        "annotated_text": "bacterial meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_60",
+        "start_offset": 48,
+        "end_offset": 60,
+        "annotated_text": "inflammation",
+        "canonical_concept": "C0021368",
+        "synonym_group_id": "syn_1460",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_61",
+        "start_offset": 164,
+        "end_offset": 176,
+        "annotated_text": "inflammation",
+        "canonical_concept": "C0021368",
+        "synonym_group_id": "syn_1460",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_62",
+        "start_offset": 2459,
+        "end_offset": 2471,
+        "annotated_text": "inflammation",
+        "canonical_concept": "C0021368",
+        "synonym_group_id": "syn_1460",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_63",
+        "start_offset": 2748,
+        "end_offset": 2760,
+        "annotated_text": "inflammation",
+        "canonical_concept": "C0021368",
+        "synonym_group_id": "syn_1460",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_64",
+        "start_offset": 2427,
+        "end_offset": 2471,
+        "annotated_text": "swelling and irritation, called inflammation",
+        "canonical_concept": "C0021368",
+        "synonym_group_id": "syn_1460",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_65",
+        "start_offset": 2716,
+        "end_offset": 2760,
+        "annotated_text": "swelling and irritation, called inflammation",
+        "canonical_concept": "C0021368",
+        "synonym_group_id": "syn_1460",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_66",
+        "start_offset": 2626,
+        "end_offset": 2636,
+        "annotated_text": "dura mater",
+        "canonical_concept": "C0013313",
+        "synonym_group_id": "syn_12522",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_67",
+        "start_offset": 2915,
+        "end_offset": 2925,
+        "annotated_text": "dura mater",
+        "canonical_concept": "C0013313",
+        "synonym_group_id": "syn_12522",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_68",
+        "start_offset": 3651,
+        "end_offset": 3675,
+        "annotated_text": "meningococcal meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "alt",
+        "notes": "related"
+      },
+      {
+        "text_span_id": "span_69",
+        "start_offset": 3757,
+        "end_offset": 3781,
+        "annotated_text": "meningococcal meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "alt",
+        "notes": "related"
+      },
+      {
+        "text_span_id": "span_70",
+        "start_offset": 4097,
+        "end_offset": 4121,
+        "annotated_text": "meningococcal meningitis",
+        "canonical_concept": "C0085437",
+        "synonym_group_id": "syn_9491",
+        "synonym_type": "alt",
+        "notes": "related"
+      }
+    ]
+  },
+  {
+    "document_id": "tuberculosis_001",
+    "text": "Tuberculosis, also called TB, is a serious illness that mainly affects the lungs. The germs that cause tuberculosis are a type of bacteria. Tuberculosis can spread when a person with the illness coughs, sneezes or sings. This can put tiny droplets with the germs into the air. Another person can then breathe in the droplets, and the germs enter the lungs. Tuberculosis spreads easily where people gather in crowds or where people live in crowded conditions. People with HIV/AIDS and other people with weakened immune systems have a higher risk of catching tuberculosis than people with typical immune systems. Medicines called antibiotics can treat tuberculosis. But some forms of the bacteria no longer respond well to treatments. When TB germs survive and multiply in the lungs, it is called a TB infection. A TB infection may be in one of three stages. Symptoms are different in each stage. Primary TB infection. The first stage is called the primary infection. Immune system cells find and capture the germs. The immune system may completely destroy the germs. But some captured germs may still survive and multiply. Most people don't have symptoms during a primary infection. Some people may get flu-like symptoms, such as: Latent TB infection. Primary infection is usually followed by the stage called latent TB infection. Immune system cells build a wall around lung tissue with TB germs. The germs can't do any more harm if the immune system keeps them under control. But the germs survive. There are no symptoms during latent TB infection Active TB disease. Active TB disease happens when the immune system can't control an infection. Germs cause disease throughout the lungs or other parts of the body. Active TB disease may happen right after primary infection. But it usually happens after months or years of latent TB infection. Symptoms of active TB disease in the lungs usually begin gradually and worsen over a few weeks. They may include: Active TB disease outside the lungs. TB infection can spread from the lungs to other parts of the body. This is called extrapulmonary tuberculosis. Symptoms vary depending on what part of the body is infected. Common symptoms may include: Active TB disease in the voice box is outside the lungs, but it has symptoms more like disease in the lungs. Common sites of active TB disease outside the lungs include: Active TB disease in children. Symptoms of active TB disease in children vary. Typically, symptoms by age may include the following: The symptoms of tuberculosis are similar to symptoms of many different illnesses. See your healthcare professional if you have symptoms that don't improve with a few days of rest. Get emergency care if you have: Get immediate or urgent care if you: We use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email. Tuberculosis is caused by a bacterium called Mycobacterium tuberculosis. People with active TB disease in the lungs or voice box can spread the disease. They release tiny droplets that carry the bacteria through the air. This can happen when they're speaking, singing, laughing, coughing or sneezing. A person can get an infection after inhaling the droplets. The disease is more likely to spread when people spend a lot of time together in an indoor space. So the disease spreads easily in places where people live or work together for long periods. Also, the disease spreads more easily in crowded gatherings. A person with a latent TB infection cannot pass the disease to other people. A person taking medicine to treat active TB disease usually can't pass the disease after 2 to 3 weeks of treatment. Some forms of the TB bacteria have become drug resistant. This means that medicines that once cured the disease no longer work. This happens, in part, because of naturally occurring genetic changes in bacteria. A random genetic change in a bacterium might give it some quality that makes it more likely to survive the attack of an antibiotic. If it does survive, then it can multiply. When antibiotic medicines aren't used correctly \u2014 or medicines fail to clear out all the bacteria for another reason \u2014 the conditions are ideal for more-resistant versions of the bacteria to take hold and multiply. If these bacteria are passed on to other people, a new drug-resistant strain can grow over time. Problems that can lead to such drug-resistant strains of bacteria include the following: Anyone can get tuberculosis, but certain factors increase the risk of getting an infection. Other factors increase the risk of an infection becoming active TB disease. The Centers for Disease Control and Prevention recommends a TB test for people who have an increased risk of TB infection or active TB disease. Talk to your healthcare professional if you have one or more of the following risk factors. Certain living or working conditions make it easier for the disease to pass from one person to another. These conditions increase the risk of getting a TB infection: A weakened immune system increases the risk of a TB infection becoming active TB disease. Conditions or treatments that weaken the immune system include: The risk of a TB infection becoming active TB disease changes with age. If you test positive for latent TB infection, you may need to take medicines to prevent active TB disease. If you have active TB disease, you'll need to take steps to prevent other people from getting an infection. You will take medicines for four, six or nine months. Take all of the medicines as directed during the entire time. During the first 2 to 3 weeks, you will be able to pass TB bacteria to others. Protect others with these steps: In countries where tuberculosis is common, infants often are vaccinated with the bacille Calmette-Guerin (BCG) vaccine. This protects infants and toddlers who are more likely to have active TB disease in the fluid surrounding the brain and spinal cord. The vaccine may not protect against disease in the lungs, which is more likely in the United States. Dozens of new TB vaccines are in various stages of development and testing. Apr 24, 2025 CON-20155769 Your GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 12,
+        "annotated_text": "Tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 103,
+        "end_offset": 115,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 140,
+        "end_offset": 152,
+        "annotated_text": "Tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 357,
+        "end_offset": 369,
+        "annotated_text": "Tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 557,
+        "end_offset": 569,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 650,
+        "end_offset": 662,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 2091,
+        "end_offset": 2103,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 2515,
+        "end_offset": 2527,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 3201,
+        "end_offset": 3213,
+        "annotated_text": "Tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 3260,
+        "end_offset": 3272,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 4807,
+        "end_offset": 4819,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 6050,
+        "end_offset": 6062,
+        "annotated_text": "tuberculosis",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 26,
+        "end_offset": 28,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 738,
+        "end_offset": 740,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 797,
+        "end_offset": 799,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 813,
+        "end_offset": 815,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 903,
+        "end_offset": 905,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 1237,
+        "end_offset": 1239,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 1316,
+        "end_offset": 1318,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 1387,
+        "end_offset": 1389,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 1536,
+        "end_offset": 1538,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 1556,
+        "end_offset": 1558,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_23",
+        "start_offset": 1575,
+        "end_offset": 1577,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_24",
+        "start_offset": 1721,
+        "end_offset": 1723,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_25",
+        "start_offset": 1829,
+        "end_offset": 1831,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_26",
+        "start_offset": 1862,
+        "end_offset": 1864,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_27",
+        "start_offset": 1964,
+        "end_offset": 1966,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_28",
+        "start_offset": 1994,
+        "end_offset": 1996,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_29",
+        "start_offset": 2203,
+        "end_offset": 2205,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_30",
+        "start_offset": 2328,
+        "end_offset": 2330,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_31",
+        "start_offset": 2373,
+        "end_offset": 2375,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_32",
+        "start_offset": 2416,
+        "end_offset": 2418,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_33",
+        "start_offset": 3293,
+        "end_offset": 3295,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_34",
+        "start_offset": 3836,
+        "end_offset": 3838,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_35",
+        "start_offset": 3931,
+        "end_offset": 3933,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_36",
+        "start_offset": 4024,
+        "end_offset": 4026,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_37",
+        "start_offset": 4948,
+        "end_offset": 4950,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_38",
+        "start_offset": 5020,
+        "end_offset": 5022,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_39",
+        "start_offset": 5069,
+        "end_offset": 5071,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_40",
+        "start_offset": 5092,
+        "end_offset": 5094,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_41",
+        "start_offset": 5348,
+        "end_offset": 5350,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_42",
+        "start_offset": 5411,
+        "end_offset": 5413,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_43",
+        "start_offset": 5440,
+        "end_offset": 5442,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_44",
+        "start_offset": 5530,
+        "end_offset": 5532,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_45",
+        "start_offset": 5559,
+        "end_offset": 5561,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_46",
+        "start_offset": 5620,
+        "end_offset": 5622,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_47",
+        "start_offset": 5683,
+        "end_offset": 5685,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_48",
+        "start_offset": 5714,
+        "end_offset": 5716,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_49",
+        "start_offset": 5975,
+        "end_offset": 5977,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_50",
+        "start_offset": 6221,
+        "end_offset": 6223,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_51",
+        "start_offset": 6399,
+        "end_offset": 6401,
+        "annotated_text": "TB",
+        "canonical_concept": "C0041296",
+        "synonym_group_id": "syn_9353",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_52",
+        "start_offset": 471,
+        "end_offset": 479,
+        "annotated_text": "HIV/AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_53",
+        "start_offset": 797,
+        "end_offset": 809,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_54",
+        "start_offset": 813,
+        "end_offset": 825,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_55",
+        "start_offset": 903,
+        "end_offset": 915,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_56",
+        "start_offset": 1237,
+        "end_offset": 1249,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_57",
+        "start_offset": 1316,
+        "end_offset": 1328,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_58",
+        "start_offset": 1536,
+        "end_offset": 1548,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_59",
+        "start_offset": 1829,
+        "end_offset": 1841,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_60",
+        "start_offset": 1994,
+        "end_offset": 2006,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_61",
+        "start_offset": 3836,
+        "end_offset": 3848,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_62",
+        "start_offset": 5069,
+        "end_offset": 5081,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_63",
+        "start_offset": 5348,
+        "end_offset": 5360,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_64",
+        "start_offset": 5411,
+        "end_offset": 5423,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_65",
+        "start_offset": 5530,
+        "end_offset": 5542,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_66",
+        "start_offset": 5620,
+        "end_offset": 5632,
+        "annotated_text": "TB infection",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_67",
+        "start_offset": 3246,
+        "end_offset": 3272,
+        "annotated_text": "Mycobacterium tuberculosis",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_68",
+        "start_offset": 1556,
+        "end_offset": 1566,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_69",
+        "start_offset": 1575,
+        "end_offset": 1585,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_70",
+        "start_offset": 1721,
+        "end_offset": 1731,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_71",
+        "start_offset": 1862,
+        "end_offset": 1872,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_72",
+        "start_offset": 1964,
+        "end_offset": 1974,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_73",
+        "start_offset": 2203,
+        "end_offset": 2213,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_74",
+        "start_offset": 2328,
+        "end_offset": 2338,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_75",
+        "start_offset": 2373,
+        "end_offset": 2383,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_76",
+        "start_offset": 2416,
+        "end_offset": 2426,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_77",
+        "start_offset": 3293,
+        "end_offset": 3303,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_78",
+        "start_offset": 3931,
+        "end_offset": 3941,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_79",
+        "start_offset": 4948,
+        "end_offset": 4958,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_80",
+        "start_offset": 5092,
+        "end_offset": 5102,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_81",
+        "start_offset": 5440,
+        "end_offset": 5450,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_82",
+        "start_offset": 5559,
+        "end_offset": 5569,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_83",
+        "start_offset": 5683,
+        "end_offset": 5693,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_84",
+        "start_offset": 5714,
+        "end_offset": 5724,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_85",
+        "start_offset": 6221,
+        "end_offset": 6231,
+        "annotated_text": "TB disease",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_86",
+        "start_offset": 4024,
+        "end_offset": 4035,
+        "annotated_text": "TB bacteria",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_87",
+        "start_offset": 5975,
+        "end_offset": 5986,
+        "annotated_text": "TB bacteria",
+        "canonical_concept": "C0004623",
+        "synonym_group_id": "syn_14962",
+        "synonym_type": "alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_88",
+        "start_offset": 6112,
+        "end_offset": 6149,
+        "annotated_text": "bacille Calmette-Guerin (BCG) vaccine",
+        "canonical_concept": "C0004886",
+        "synonym_group_id": "syn_24333",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_89",
+        "start_offset": 6399,
+        "end_offset": 6409,
+        "annotated_text": "TB vaccine",
+        "canonical_concept": "C0004886",
+        "synonym_group_id": "syn_24333",
+        "synonym_type": "alt",
+        "notes": ""
+      }
+    ]
   }
 ]
