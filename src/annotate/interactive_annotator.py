@@ -14,8 +14,7 @@ def load_json(path):
 
 def save_jsonl(path, items):
     with open(path, "w", encoding="utf-8") as f:
-        for item in items:
-            f.write(json.dumps(item, ensure_ascii=False) + "\n")
+        json.dump(items, f, indent=2)
 
 def load_umls_synonyms(path):
     """
@@ -36,6 +35,23 @@ def load_umls_synonyms(path):
 def generate_span_id(counter):
     return f"span_{counter}"
 
+def load_existing_annotations(output_path):
+    if not os.path.exists(output_path):
+        return {}
+
+    with open(output_path) as f:
+        data = json.load(f)
+
+    # If the file is accidentally a list, convert to dict
+    if isinstance(data, list):
+        converted = {}
+        for item in data:
+            doc_id = item.get("document_id")
+            if doc_id:
+                converted[doc_id] = item
+        return converted
+
+    return data
 
 def handle_user_selection(selected_text, umls_dict):
     """
@@ -109,28 +125,24 @@ def main():
     # -------------------------
     # File inputs
     # -------------------------
+    print(os.path.abspath("."))
     raw_path = input("Enter path to raw JSONL file: ").strip()
     while not os.path.exists(raw_path):
         print("File not found. Try again.")
         raw_path = input("Enter path to raw JSONL file: ").strip()
 
-    umls_path = input("Enter path to UMLS synonym JSON: ").strip()
-    while not os.path.exists(umls_path):
-        print("File not found. Try again.")
-        umls_path = input("Enter path to UMLS synonym JSON: ").strip()
+    umls_path = "data/synonym_groups.json"
+    out_path = "data/processed/manual_annotations.jsonl"
 
-    data = load_json(raw_path)
+    existing_map = load_existing_annotations(out_path)
+    new_doc = load_json(raw_path)
     umls_dict = load_umls_synonyms(umls_path)
 
-    # Assume raw JSONL structure:
-    # { "doc_id": "...", "url": "...", "text": "full text" }
-    print(f"Loaded {len(data)} documents.\n")
+    print(f"Loaded {len(new_doc)} documents.\n")
 
-    annotated_items = []
-    span_counter = 1
-
-    text = data["text"]
     annotations = []
+    span_counter = 1
+    text = new_doc["text"]
 
     while True:
         print("\n--- Annotation Menu ---")
@@ -160,14 +172,10 @@ def main():
         else:
             break
 
-    data["annotations"] = annotations
-    annotated_items.append(data)
-
-    # -------------------------
-    # Save output
-    # -------------------------
-    out_path = "data/2_processed/manual_annotations.jsonl"
-    save_jsonl(out_path, annotated_items)
+    new_doc["annotations"] = annotations
+    existing_map[new_doc["document_id"]] = new_doc
+    merged_docs = list(existing_map.values())
+    save_jsonl(out_path, merged_docs)
     print(f"\nSaved annotations to {out_path}")
 
 
