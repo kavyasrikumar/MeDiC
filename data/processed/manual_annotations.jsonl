@@ -1694,5 +1694,1713 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "document_id": "heatstroke_001",
+    "text": "Heatstroke is a condition caused by the body overheating. This usually happens because of exposure to high temperatures or physical activity in high temperatures for too long. There are a few stages of heat injury, and heatstroke is the most serious. It can happen if body temperature rises to 104 F (40 C) or higher. Heatstroke is most common in the summer months.\nHeatstroke needs emergency care. If it's not treated, heatstroke can quickly damage the brain, heart, kidneys and muscles. This damage gets worse the longer treatment is delayed, which increases the risk of serious complications or death.\nHeatstroke symptoms include:\nIf you think a person may be experiencing heatstroke, seek immediate medical help. Call 911 or your local emergency services number.\nTake immediate action to cool the person with heatstroke while waiting for emergency treatment.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nHeatstroke can happen as a result of:\nIn either type of heatstroke, your condition can be brought on by:\nAnyone can develop heatstroke, but several factors increase your risk:\nSudden exposure to hot weather. People may be more susceptible to heat-related illness when they're exposed to a sudden increase in temperature, such as during an early-summer heat wave or travel to a hotter climate.\nLimit activity for at least several days to allow time to acclimate to the temperature change. However, there may still be an increased risk of heatstroke until a person experiences several weeks of higher temperatures.\nCertain medicines. Some medicines affect your body's ability to stay hydrated and respond to heat. Be especially careful in hot weather if you take medicines that narrow your blood vessels (vasoconstrictors), regulate your blood pressure by blocking adrenaline (beta blockers), rid your body of sodium and water (diuretics), or reduce psychiatric symptoms (antidepressants or antipsychotics).\nStimulants for attention-deficit/hyperactivity disorder (ADHD) and illegal stimulants such as amphetamines and cocaine also make you more vulnerable to heatstroke.\nHeatstroke can result in a number of complications, depending on how long the body temperature is high. Serious complications include:\nHeatstroke is predictable and preventable. Take these steps to prevent heatstroke during hot weather:\nNever leave anyone in a parked car. This is a common cause of heat-related deaths in children. When a car is parked in the sun, the temperature in the car can rise 20 degrees Fahrenheit (more than 11 degrees Celsius) in 10 minutes.\nIt's not safe to leave a person in a parked car in warm or hot weather, even if the windows are cracked or the car is in shade. When your car is parked, keep it locked to prevent a child from getting inside.\nBe cautious if you're at increased risk. If you take medicines or have a condition that increases your risk of heat-related problems, avoid the heat and act quickly if you notice symptoms of overheating. If you participate in a strenuous sporting event or activity in hot weather, make sure there are medical services available in case of a heat emergency.\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 10,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 219,
+        "end_offset": 229,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 318,
+        "end_offset": 328,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 366,
+        "end_offset": 376,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 420,
+        "end_offset": 430,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 605,
+        "end_offset": 615,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 676,
+        "end_offset": 686,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 813,
+        "end_offset": 823,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 1821,
+        "end_offset": 1831,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 1877,
+        "end_offset": 1887,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 1945,
+        "end_offset": 1955,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 2358,
+        "end_offset": 2368,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 2979,
+        "end_offset": 2989,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 2991,
+        "end_offset": 3001,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 3126,
+        "end_offset": 3136,
+        "annotated_text": "Heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 3197,
+        "end_offset": 3207,
+        "annotated_text": "heatstroke",
+        "canonical_concept": "C0018843",
+        "synonym_group_id": "syn_heatstroke",
+        "synonym_type": "preferred",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "document_id": "high_cholesterol_001",
+    "text": "Cholesterol is a waxy substance found in the blood. The body needs cholesterol to build healthy cells. But high levels of cholesterol can raise the risk of heart disease.\nWith high cholesterol, fats and other substances can build up in blood vessels called arteries. This buildup is called plaque. As more plaque forms over time, the arteries can become narrowed or clogged. That makes it hard for enough blood to flow through the arteries. Sometimes a piece of plaque can break loose and form a blood clot. The clot may cause a heart attack or stroke.\nHigh cholesterol can be inherited. That means it can pass from parents to children through genes. But high cholesterol often is the result of lifestyle choices such as not getting enough exercise, not eating a balanced diet or consuming large amounts of saturated fat. You can make changes to help prevent it. And if you have high cholesterol, you can help lower it with a healthy diet, regular exercise and sometimes medicine.\nHigh cholesterol has no symptoms. A blood test is the only way to find out if you have it.\nThe American Heart Association recommends that children get checked, also called screened, for high cholesterol once between ages 9 and 11. Screening may start earlier if a child has a family history of high cholesterol, heart attack or stroke. Screening also may start earlier if a child has conditions such as diabetes or obesity.\nThe next cholesterol screening is recommended for people between ages 17 and 21. After that, many adults get their cholesterol checked every 4 to 6 years. People who have health conditions such as high blood pressure and diabetes may need to get screened more often. So might those who take cholesterol-lowering medicine. Those who have a family history of high cholesterol or heart disease also may need more-frequent screenings.\nIf your test results aren't within the desirable range, your healthcare professional might recommend more-frequent testing as well.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nLifestyle factors that may be within your control are the most common cause of high cholesterol. These factors include eating a diet high in saturated and trans fats and not getting enough exercise.\nSometimes factors that aren't within your control can lead to high cholesterol. These include gene changes that pass from parents to children, some health conditions, and some medicines.\nConditions that can cause high cholesterol include:\nSome types of medicines taken for other health conditions also can make cholesterol levels worse. These include treatments for:\nCholesterol travels through the blood, attached to proteins. This mix of proteins and cholesterol is called a lipoprotein. There are various types of cholesterol. The types are based on what the lipoprotein carries. They are:\nLow-density lipoprotein (LDL) cholesterol. This is known as the \"bad\" cholesterol. LDL carries cholesterol particles throughout the body. \"Bad\" cholesterol builds up in the walls of arteries. This makes the arteries hard and narrow.\nWhen a gene change causes high cholesterol, the body has trouble removing LDL cholesterol from the blood. Or the body has trouble breaking down LDL cholesterol in the liver.\nMost often, a blood test to check cholesterol levels also measures a type of fat in the blood that is not a type of cholesterol, called triglycerides. Having a high triglyceride level also can raise the risk of heart disease. Lifestyle factors that you may be able to control play a role in triglyceride levels.\nRisk factors for high cholesterol levels include:\nIf there's too much cholesterol in the blood, the cholesterol and other substances may form deposits called plaque. Plaque can cause an artery to become narrowed or blocked. If a plaque ruptures, a blood clot can form. Plaque and blood clots can reduce blood flow through an artery.\nIf there's too much cholesterol in the blood, the cholesterol and other substances may form deposits called plaque. Plaque can cause an artery to become narrowed or blocked. If a plaque ruptures, a blood clot can form. Plaque and blood clots can reduce blood flow through an artery.\nHigh cholesterol can lead to other health conditions called complications. With high cholesterol, a dangerous amount of plaque can build up on the walls of arteries. This is called atherosclerosis. Over time, the plaque buildup can cause arteries to narrow and block blood flow. Less blood flow through the arteries can cause complications such as:\nThe same heart-healthy lifestyle changes that can lower cholesterol also can help prevent high cholesterol. You can practice the following habits:\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 0,
+        "end_offset": 11,
+        "annotated_text": "Cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 67,
+        "end_offset": 78,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 122,
+        "end_offset": 133,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 181,
+        "end_offset": 192,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 558,
+        "end_offset": 569,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 660,
+        "end_offset": 671,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 884,
+        "end_offset": 895,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 986,
+        "end_offset": 997,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 1172,
+        "end_offset": 1183,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 1280,
+        "end_offset": 1291,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 1414,
+        "end_offset": 1425,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 1520,
+        "end_offset": 1531,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 1696,
+        "end_offset": 1707,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 1767,
+        "end_offset": 1778,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 3010,
+        "end_offset": 3021,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 3192,
+        "end_offset": 3203,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 3343,
+        "end_offset": 3354,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 3436,
+        "end_offset": 3447,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 3492,
+        "end_offset": 3503,
+        "annotated_text": "Cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 3578,
+        "end_offset": 3589,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 3642,
+        "end_offset": 3653,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 3748,
+        "end_offset": 3759,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_23",
+        "start_offset": 3788,
+        "end_offset": 3799,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_24",
+        "start_offset": 3813,
+        "end_offset": 3824,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_25",
+        "start_offset": 3862,
+        "end_offset": 3873,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_26",
+        "start_offset": 3982,
+        "end_offset": 3993,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_27",
+        "start_offset": 4029,
+        "end_offset": 4040,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_28",
+        "start_offset": 4099,
+        "end_offset": 4110,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_29",
+        "start_offset": 4159,
+        "end_offset": 4170,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_30",
+        "start_offset": 4241,
+        "end_offset": 4252,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_31",
+        "start_offset": 4459,
+        "end_offset": 4470,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_32",
+        "start_offset": 4507,
+        "end_offset": 4518,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_33",
+        "start_offset": 4537,
+        "end_offset": 4548,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_34",
+        "start_offset": 4790,
+        "end_offset": 4801,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_35",
+        "start_offset": 4820,
+        "end_offset": 4831,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_36",
+        "start_offset": 5058,
+        "end_offset": 5069,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_37",
+        "start_offset": 5138,
+        "end_offset": 5149,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_38",
+        "start_offset": 5458,
+        "end_offset": 5469,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_39",
+        "start_offset": 5497,
+        "end_offset": 5508,
+        "annotated_text": "cholesterol",
+        "canonical_concept": "C0008377",
+        "synonym_group_id": "syn_cholesterol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_40",
+        "start_offset": 176,
+        "end_offset": 192,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_41",
+        "start_offset": 553,
+        "end_offset": 569,
+        "annotated_text": "High cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_42",
+        "start_offset": 655,
+        "end_offset": 671,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_43",
+        "start_offset": 879,
+        "end_offset": 895,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_44",
+        "start_offset": 981,
+        "end_offset": 997,
+        "annotated_text": "High cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_45",
+        "start_offset": 1167,
+        "end_offset": 1183,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_46",
+        "start_offset": 1275,
+        "end_offset": 1291,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_47",
+        "start_offset": 1762,
+        "end_offset": 1778,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_48",
+        "start_offset": 3005,
+        "end_offset": 3021,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_49",
+        "start_offset": 3187,
+        "end_offset": 3203,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_50",
+        "start_offset": 3338,
+        "end_offset": 3354,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_51",
+        "start_offset": 3977,
+        "end_offset": 3993,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_52",
+        "start_offset": 4454,
+        "end_offset": 4470,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_53",
+        "start_offset": 5053,
+        "end_offset": 5069,
+        "annotated_text": "High cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_54",
+        "start_offset": 5133,
+        "end_offset": 5149,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_55",
+        "start_offset": 5492,
+        "end_offset": 5508,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020443",
+        "synonym_group_id": "syn_high_chol",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_56",
+        "start_offset": 176,
+        "end_offset": 192,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_57",
+        "start_offset": 553,
+        "end_offset": 569,
+        "annotated_text": "High cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_58",
+        "start_offset": 655,
+        "end_offset": 671,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_59",
+        "start_offset": 879,
+        "end_offset": 895,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_60",
+        "start_offset": 981,
+        "end_offset": 997,
+        "annotated_text": "High cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_61",
+        "start_offset": 1167,
+        "end_offset": 1183,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_62",
+        "start_offset": 1275,
+        "end_offset": 1291,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_63",
+        "start_offset": 1762,
+        "end_offset": 1778,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_64",
+        "start_offset": 3005,
+        "end_offset": 3021,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_65",
+        "start_offset": 3187,
+        "end_offset": 3203,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_66",
+        "start_offset": 3338,
+        "end_offset": 3354,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_67",
+        "start_offset": 3977,
+        "end_offset": 3993,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_68",
+        "start_offset": 4454,
+        "end_offset": 4470,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_69",
+        "start_offset": 5053,
+        "end_offset": 5069,
+        "annotated_text": "High cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_70",
+        "start_offset": 5133,
+        "end_offset": 5149,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_71",
+        "start_offset": 5492,
+        "end_offset": 5508,
+        "annotated_text": "high cholesterol",
+        "canonical_concept": "C0020445",
+        "synonym_group_id": "syn_21134",
+        "synonym_type": "alt",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_72",
+        "start_offset": 3718,
+        "end_offset": 3741,
+        "annotated_text": "Low-density lipoprotein",
+        "canonical_concept": "C0023823",
+        "synonym_group_id": "syn_LDL",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_73",
+        "start_offset": 3743,
+        "end_offset": 3746,
+        "annotated_text": "LDL",
+        "canonical_concept": "C0023823",
+        "synonym_group_id": "syn_LDL",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_74",
+        "start_offset": 3801,
+        "end_offset": 3804,
+        "annotated_text": "LDL",
+        "canonical_concept": "C0023823",
+        "synonym_group_id": "syn_LDL",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_75",
+        "start_offset": 4025,
+        "end_offset": 4028,
+        "annotated_text": "LDL",
+        "canonical_concept": "C0023823",
+        "synonym_group_id": "syn_LDL",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_76",
+        "start_offset": 4095,
+        "end_offset": 4098,
+        "annotated_text": "LDL",
+        "canonical_concept": "C0023823",
+        "synonym_group_id": "syn_LDL",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_77",
+        "start_offset": 5234,
+        "end_offset": 5249,
+        "annotated_text": "atherosclerosis",
+        "canonical_concept": "C2711237",
+        "synonym_group_id": "syn_33611",
+        "synonym_type": "preferred",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "document_id": "hiv_aids_001",
+    "text": "Acquired immunodeficiency syndrome (AIDS), is an ongoing, also called chronic, condition. It's caused by the human immunodeficiency virus, also called HIV. HIV damages the immune system so that the body is less able to fight infection and disease. If HIV isn't treated, it can take years before it weakens the immune system enough to become AIDS. Thanks to treatment, most people in the U.S. don't get AIDS.\nHIV is spread through contact with genitals, such as during sex without a condom. This type of infection is called a sexually transmitted infection, also called an STI. HIV also is spread through contact with blood, such as when people share needles or syringes. It is also possible for a person with untreated HIV to spread the virus to a child during pregnancy, childbirth or breastfeeding.\nThere's no cure for HIV/AIDS. But medicines can control the infection and keep the disease from getting worse. Antiviral treatments for HIV have reduced AIDS deaths around the world. There's an ongoing effort to make ways to prevent and treat HIV/AIDS more available in resource-poor countries.\nThe symptoms of HIV and AIDS vary depending on the person and the phase of infection.\nSome people infected by HIV get a flu-like illness within 2 to 4 weeks after the virus enters the body. This stage may last a few days to several weeks. Some people have no symptoms during this stage.\nPossible symptoms include:\nThese symptoms can be so mild that you might not notice them. However, the amount of virus in your bloodstream, called viral load, is high at this time. As a result, the infection spreads to others more easily during primary infection than during the next stage.\nIn this stage of infection, HIV is still in the body and cells of the immune system, called white blood cells. But during this time, many people don't have symptoms or the infections that HIV can cause.\nThis stage can last for many years for people who aren't getting antiretroviral therapy, also called ART. Some people get more-severe disease much sooner.\nAs the virus continues to multiply and destroy immune cells, you may get mild infections or long-term symptoms such as:\nBetter antiviral treatments have greatly decreased deaths from AIDS worldwide. Thanks to these lifesaving treatments, most people with HIV in the U.S. today don't get AIDS. Untreated, HIV most often turns into AIDS in about 8 to 10 years.\nHaving AIDS means your immune system is very damaged. People with AIDS are more likely to develop diseases they wouldn't get if they had healthy immune systems. These are called opportunistic infections or opportunistic cancers. Some people get opportunistic infections during the acute stage of the disease.\nThe symptoms of some of these infections may include:\nIf you think you may have been infected with HIV or are at risk of contracting the virus, see a healthcare professional as soon as you can.\nThere is a problem with\ninformation submitted for this request. Review/update the\ninformation highlighted below and resubmit the form.\nSign up for free and stay up to date on research advancements, health tips, current health topics, and expertise on managing health. Click here for an email preview.\nErrorEmail field is required\nErrorInclude a valid email address\nWe use the data you provide to deliver you the content you requested. To provide you with the most relevant and helpful information, we may combine your email and website data with other information we have about you. If you are a Mayo Clinic patient, we will only use your protected health information as outlined in our Notice of Privacy Practices. You may opt out of email communications at any time by clicking on the unsubscribe link in the email.\nYou'll soon start receiving the latest Mayo Clinic health information you requested in your inbox.\nPlease, try again in a couple of minutes\nHIV is caused by a virus. It can spread through sexual contact, shooting of illicit drugs or use of shared needles, and contact with infected blood. It also can spread from parent to child during pregnancy, childbirth or breastfeeding.\nHIV destroys white blood cells called CD4 T cells. These cells play a large role in helping the body fight disease. The fewer CD4 T cells you have, the weaker your immune system becomes.\nYou can have an HIV infection with few or no symptoms for years before it turns into AIDS. AIDS is diagnosed when the CD4 T cell count falls below 200 or you have a complication you get only if you have AIDS, such as a serious infection or cancer.\nYou can get infected with HIV if infected blood, semen or fluids from a vagina enter your body. This can happen when you:\nYou can't become infected with HIV through casual contact. That means you can't catch HIV or get AIDS by hugging, kissing, dancing or shaking hands with someone who has the infection.\nHIV isn't spread through air, water or insect bites. You can't get HIV by donating blood.\nAnyone of any age, race, sex or sexual orientation can have HIV/AIDS. However, you're at greatest risk of HIV/AIDS if you:\nHIV infection weakens your immune system. The infection makes you much more likely to get many infections and certain types of cancers.\nToxoplasmosis. This infection is caused by Toxoplasma gondii, a parasite spread primarily by cats. Infected cats pass the parasites in their stools. The parasites then can spread to other animals and humans.\nToxoplasmosis can cause heart disease. Seizures happen when it spreads to the brain. And it can be fatal.\nThere's no vaccine to prevent HIV infection and no cure for HIV/AIDS. But you can protect yourself and others from infection.\nTo help prevent the spread of HIV:\nConsider preexposure prophylaxis, also called PrEP. There are two PrEP medicines taken by mouth, also called oral, and one PrEP medicine given in the form of a shot, called injectable. The oral medicines are emtricitabine-tenofovir disoproxil fumarate (Truvada) and emtricitabine-tenofovir alafenamide fumarate (Descovy). The injectable medicine is called cabotegravir (Apretude). PrEP can reduce the risk of sexually transmitted HIV infection in people at very high risk.\nPrEP can reduce the risk of getting HIV from sex by about 99% and from injecting drugs by at least 74%, according to the Centers for Disease Control and Prevention. Descovy hasn't been studied in people who have sex by having a penis put into their vaginas, called receptive vaginal sex.\nCabotegravir (Apretude) is the first U.S. Food and Drug Administration-approved PrEP that can be given as a shot to reduce the risk of sexually transmitted HIV infection in people at very high risk. A healthcare professional gives the shot. After two once-monthly shots, Apretude is given every two months. The shot is an option in place of a daily PrEP pill.\nYour healthcare professional prescribes these medicines to prevent HIV only to people who don't already have HIV infection. You need an HIV test before you start taking any PrEP. You need to take the test every three months for the pills or before each shot for as long as you take PrEP.\nYou need to take the pills every day or closely follow the shot schedule. You still need to practice safe sex to protect against other STIs. If you have hepatitis B, you should see an infectious disease or liver specialist before beginning PrEP therapy.\nUse treatment as prevention, also called TasP. If you have HIV, taking HIV medicines can keep your partner from getting infected with the virus. If your blood tests show no virus, that means your viral load can't be detected. Then you won't transmit the virus to anyone else through sex.\nIf you use TasP, you must take your medicines exactly as prescribed and get regular checkups.\nUse a new condom every time you have anal or vaginal sex. Both male and female condoms are available. If you use a lubricant, make sure it's water based. Oil-based lubricants can weaken condoms and cause them to break.\nDuring oral sex, use a cut-open condom or a piece of medical-grade latex called a dental dam without a lubricant.\nMayo Clinic does not endorse companies or products. Advertising revenue supports our not-for-profit mission.\nCheck out these best-sellers and special offers on books and newsletters from Mayo Clinic Press.\nYour GivingTuesday gift can go 2X as far.",
+    "annotations": [
+      {
+        "text_span_id": "span_1",
+        "start_offset": 36,
+        "end_offset": 40,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_2",
+        "start_offset": 341,
+        "end_offset": 345,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_3",
+        "start_offset": 402,
+        "end_offset": 406,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_4",
+        "start_offset": 825,
+        "end_offset": 829,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_5",
+        "start_offset": 954,
+        "end_offset": 958,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_6",
+        "start_offset": 1048,
+        "end_offset": 1052,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_7",
+        "start_offset": 1120,
+        "end_offset": 1124,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_8",
+        "start_offset": 2214,
+        "end_offset": 2218,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_9",
+        "start_offset": 2318,
+        "end_offset": 2322,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_10",
+        "start_offset": 2361,
+        "end_offset": 2365,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_11",
+        "start_offset": 2397,
+        "end_offset": 2401,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_12",
+        "start_offset": 2456,
+        "end_offset": 2460,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_13",
+        "start_offset": 4359,
+        "end_offset": 4363,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_14",
+        "start_offset": 4365,
+        "end_offset": 4369,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_15",
+        "start_offset": 4477,
+        "end_offset": 4481,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_16",
+        "start_offset": 4741,
+        "end_offset": 4745,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_17",
+        "start_offset": 4982,
+        "end_offset": 4986,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_18",
+        "start_offset": 5028,
+        "end_offset": 5032,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_19",
+        "start_offset": 5555,
+        "end_offset": 5559,
+        "annotated_text": "AIDS",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation",
+        "notes": "preferred"
+      },
+      {
+        "text_span_id": "span_20",
+        "start_offset": 0,
+        "end_offset": 34,
+        "annotated_text": "Acquired immunodeficiency syndrome",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_21",
+        "start_offset": 109,
+        "end_offset": 137,
+        "annotated_text": "human immunodeficiency virus",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "alt",
+        "notes": "related"
+      },
+      {
+        "text_span_id": "span_22",
+        "start_offset": 151,
+        "end_offset": 154,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_23",
+        "start_offset": 156,
+        "end_offset": 159,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_24",
+        "start_offset": 251,
+        "end_offset": 254,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_25",
+        "start_offset": 408,
+        "end_offset": 411,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_26",
+        "start_offset": 577,
+        "end_offset": 580,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_27",
+        "start_offset": 719,
+        "end_offset": 722,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_28",
+        "start_offset": 821,
+        "end_offset": 824,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_29",
+        "start_offset": 937,
+        "end_offset": 940,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_30",
+        "start_offset": 1044,
+        "end_offset": 1047,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_31",
+        "start_offset": 1112,
+        "end_offset": 1115,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_32",
+        "start_offset": 1206,
+        "end_offset": 1209,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_33",
+        "start_offset": 1701,
+        "end_offset": 1704,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_34",
+        "start_offset": 1861,
+        "end_offset": 1864,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_35",
+        "start_offset": 2286,
+        "end_offset": 2289,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_36",
+        "start_offset": 2335,
+        "end_offset": 2338,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_37",
+        "start_offset": 2798,
+        "end_offset": 2801,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_38",
+        "start_offset": 3851,
+        "end_offset": 3854,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_39",
+        "start_offset": 4087,
+        "end_offset": 4090,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_40",
+        "start_offset": 4290,
+        "end_offset": 4293,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_41",
+        "start_offset": 4548,
+        "end_offset": 4551,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_42",
+        "start_offset": 4675,
+        "end_offset": 4678,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_43",
+        "start_offset": 4730,
+        "end_offset": 4733,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_44",
+        "start_offset": 4828,
+        "end_offset": 4831,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_45",
+        "start_offset": 4895,
+        "end_offset": 4898,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_46",
+        "start_offset": 4978,
+        "end_offset": 4981,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_47",
+        "start_offset": 5024,
+        "end_offset": 5027,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_48",
+        "start_offset": 5041,
+        "end_offset": 5044,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_49",
+        "start_offset": 5521,
+        "end_offset": 5524,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_50",
+        "start_offset": 5551,
+        "end_offset": 5554,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_51",
+        "start_offset": 5647,
+        "end_offset": 5650,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_52",
+        "start_offset": 6082,
+        "end_offset": 6085,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_53",
+        "start_offset": 6161,
+        "end_offset": 6164,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_54",
+        "start_offset": 6569,
+        "end_offset": 6572,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_55",
+        "start_offset": 6840,
+        "end_offset": 6843,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_56",
+        "start_offset": 6882,
+        "end_offset": 6885,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_57",
+        "start_offset": 6909,
+        "end_offset": 6912,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_58",
+        "start_offset": 7374,
+        "end_offset": 7377,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_59",
+        "start_offset": 7386,
+        "end_offset": 7389,
+        "annotated_text": "HIV",
+        "canonical_concept": "C0019682",
+        "synonym_group_id": "syn_1540",
+        "synonym_type": "abbreviation, alt",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_60",
+        "start_offset": 525,
+        "end_offset": 555,
+        "annotated_text": "sexually transmitted infection",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_61",
+        "start_offset": 572,
+        "end_offset": 575,
+        "annotated_text": "STI",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_62",
+        "start_offset": 1708,
+        "end_offset": 1711,
+        "annotated_text": "sti",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_63",
+        "start_offset": 2577,
+        "end_offset": 2580,
+        "annotated_text": "sti",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_64",
+        "start_offset": 2605,
+        "end_offset": 2608,
+        "annotated_text": "sti",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_65",
+        "start_offset": 2644,
+        "end_offset": 2647,
+        "annotated_text": "sti",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_66",
+        "start_offset": 7139,
+        "end_offset": 7142,
+        "annotated_text": "sti",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_67",
+        "start_offset": 7196,
+        "end_offset": 7199,
+        "annotated_text": "STI",
+        "canonical_concept": "C0036916",
+        "synonym_group_id": "syn_15868",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_68",
+        "start_offset": 1941,
+        "end_offset": 1963,
+        "annotated_text": "antiretroviral therapy",
+        "canonical_concept": "C1963724",
+        "synonym_group_id": "syn_8399",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_69",
+        "start_offset": 1977,
+        "end_offset": 1980,
+        "annotated_text": "ART",
+        "canonical_concept": "C1963724",
+        "synonym_group_id": "syn_8399",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_70",
+        "start_offset": 3725,
+        "end_offset": 3728,
+        "annotated_text": "art",
+        "canonical_concept": "C1963724",
+        "synonym_group_id": "syn_8399",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_71",
+        "start_offset": 5411,
+        "end_offset": 5414,
+        "annotated_text": "art",
+        "canonical_concept": "C1963724",
+        "synonym_group_id": "syn_8399",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_72",
+        "start_offset": 6931,
+        "end_offset": 6934,
+        "annotated_text": "art",
+        "canonical_concept": "C1963724",
+        "synonym_group_id": "syn_8399",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_73",
+        "start_offset": 7415,
+        "end_offset": 7418,
+        "annotated_text": "art",
+        "canonical_concept": "C1963724",
+        "synonym_group_id": "syn_8399",
+        "synonym_type": "abbreviation",
+        "notes": ""
+      },
+      {
+        "text_span_id": "span_74",
+        "start_offset": 5177,
+        "end_offset": 5190,
+        "annotated_text": "Toxoplasmosis",
+        "canonical_concept": "C0040558",
+        "synonym_group_id": "syn_18396",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_75",
+        "start_offset": 5385,
+        "end_offset": 5398,
+        "annotated_text": "Toxoplasmosis",
+        "canonical_concept": "C0040558",
+        "synonym_group_id": "syn_18396",
+        "synonym_type": "preferred",
+        "notes": "exact"
+      },
+      {
+        "text_span_id": "span_76",
+        "start_offset": 5220,
+        "end_offset": 5237,
+        "annotated_text": "Toxoplasma gondii",
+        "canonical_concept": "C0040558",
+        "synonym_group_id": "syn_18396",
+        "synonym_type": "alt",
+        "notes": "related vector"
+      }
+    ]
   }
 ]
