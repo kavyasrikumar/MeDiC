@@ -1,0 +1,41 @@
+/Users/sriku/MeDiC/venv_scispacy/lib/python3.12/site-packages/spacy/language.py:2195: FutureWarning: Possible set union at position 6328
+  deserializers["tokenizer"] = lambda p: self.tokenizer.from_disk(  # type: ignore[union-attr]
+================================================================================
+SapBERT THRESHOLD TUNING
+================================================================================
+
+Loading SapBERT matcher...
+Initializing SapBERT matcher...
+   Using device: cpu
+   Loading model: cambridgeltl/SapBERT-from-PubMedBERT-fulltext
+   Loaded SciSpacy NER model for candidate extraction
+   Model loaded successfully
+   Loaded 34,569 concept embeddings
+Loading development set...
+   Loaded 50 documents (sample)
+
+====================================================================================================
+TESTING THRESHOLDS WITH CONFIDENCE GAP
+====================================================================================================
+
+            Configuration  Precision     Recall         F1     TP     FP     FN
+----------------------------------------------------------------------------------------------------
+          T=0.75 Gap=0.05     0.6801     0.3646     0.4747   1503    707   2619
+          T=0.80 Gap=0.05     0.6937     0.3571     0.4715   1472    650   2650
+          T=0.85 Gap=0.05     0.7057     0.3479     0.4660   1434    598   2688
+          T=0.75 Gap=0.10     0.7924     0.2176     0.3415    897    235   3225
+          T=0.80 Gap=0.10     0.8007     0.2154     0.3395    888    221   3234
+          T=0.85 Gap=0.10     0.8091     0.2108     0.3345    869    205   3253
+
+================================================================================
+BEST CONFIGURATIONS
+================================================================================
+
+Best F1 Score: 0.4747 at threshold 0.75
+   Precision: 0.6801, Recall: 0.3646
+
+Best Precision: 0.8091 at threshold 0.85
+   Recall: 0.2108, F1: 0.3345
+
+Results saved to: evaluation/results/threshold_tuning_results.json
+

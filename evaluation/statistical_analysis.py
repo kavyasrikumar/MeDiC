@@ -1,14 +1,10 @@
-"""
-Statistical Analysis and Evaluation Framework for MeDiC Project
-================================================================
-
-This script implements the evaluation metrics and statistical analysis described in the proposal:
-1. Precision, Recall, F1 score
-2. Inter-annotator agreement (Cohen's kappa)
-3. Dataset statistics and coverage analysis
-4. Baseline comparisons (literal matcher, lexical synonym lookup)
-5. Error analysis and categorization
-"""
+# -------------------------------------------------------
+# 1. Precision, Recall, F1 score
+# 2. Inter-annotator agreement (Cohen's kappa)
+# 3. Dataset statistics and coverage analysis
+# 4. Baseline comparisons (literal matcher, lexical synonym lookup)
+# 5. Error analysis and categorization
+# -------------------------------------------------------
 
 import json
 import os

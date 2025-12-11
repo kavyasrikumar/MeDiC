@@ -357,7 +357,7 @@ def main():
     # For now, we'll set up the framework
 
     analyzer = ErrorAnalyzer(
-        dev_set_path="data/doc_splits/dev.json",
+        dev_set_path="data/kaggle_splits/dev.json",
         synonym_groups_path="data/synonym_groups.json"
     )
 
