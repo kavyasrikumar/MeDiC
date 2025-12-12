@@ -28,9 +28,19 @@ MRCONSO.RRF             # UMLS Dataset used (don't try to open it this is massiv
 - [Annotation Guidelines](https://github.com/kavyasrikumar/MeDiC/blob/3e40638dd9202906ba9634a48530cb154b20f688/data/annotation_README.md)
 
 ## Model Details
-- To fill with what model we use and why
+- We used SapBERT-from-PubMedBERT-fulltext (Liu et al., 2021) as it is designed for biomedical concept normalization through its synonym-aware and domain-specific capabilities.
 
 ## Evaluation
-- How to run eval
-- Metrics computed
-- Results
+- To perform evaluation the following steps were taken:
+  - A development set of 50 documents were used for threshold tuning and hyperparameter selection
+  - MeDiC pipeline was run: candidate spans were extracted using SciSpacy NER
+  - Each candidate span was encoded using SapBERT and its concept embeddings were compared with a filtered applied to it using similarity thresholds and confidence-gap thresholds.
+- After the pipeline was run the best configuration used:
+  - a similarity threshold of 0.75
+  - a confidence gap of 0.05
+  
+## Results
+- The Results showcased:
+  - a precision of 68%
+  - a recall score of 46.5%
+  - an F1 score of 51.4%
