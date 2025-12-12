@@ -353,20 +353,6 @@ def main():
     print("ERROR ANALYSIS - DEVELOPMENT SET")
     print("=" * 80 + "\n")
 
-    # Note: This requires actual predictions to compare against gold standard
-    # For now, we'll set up the framework
-
-    analyzer = ErrorAnalyzer(
-        dev_set_path="data/kaggle_splits/dev.json",
-        synonym_groups_path="data/synonym_groups.json"
-    )
-
-    print("✅ Error analyzer initialized")
-    print(f"   Development set loaded: {len(analyzer.dev_set)} documents")
-    print(f"   Synonym groups loaded: {len(analyzer.synonym_groups)} concepts")
-    print("\n⚠️  Note: To run full error analysis, predictions must be generated first")
-    print("   using a semantic matching model (SapBERT, MiniLM-Bio, etc.)")
-
 
 if __name__ == "__main__":
     main()

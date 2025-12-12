@@ -134,7 +134,7 @@ def main():
     if args.test:
         dataset_name = "test"
         print("\n" + "=" * 80)
-        print("⚠️  WARNING: RUNNING FINAL TEST SET EVALUATION")
+        print("WARNING: RUNNING FINAL TEST SET EVALUATION")
         print("=" * 80)
         print("This should only be run ONCE after all dev set tuning is complete!")
         print("Press Ctrl+C to cancel, or Enter to continue...")
@@ -239,7 +239,7 @@ def main():
 
     if args.test:
         print("=" * 80)
-        print("⚠️  FINAL TEST EVALUATION COMPLETE")
+        print("FINAL TEST EVALUATION COMPLETE")
         print("=" * 80)
         print("These are your REPORTABLE METRICS.")
         print("Do NOT run test set evaluation again.")

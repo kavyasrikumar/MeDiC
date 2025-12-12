@@ -124,38 +124,38 @@ class DatasetStatistics:
         print("DATASET STATISTICS REPORT")
         print("=" * 80)
 
-        print("\n📊 DOCUMENT COUNTS")
+        print("\nDOCUMENT COUNTS")
         print(f"  Total Documents: {stats['total_documents']:,}")
         print(f"  - MedMentions Documents: {stats['medmentions_docs']:,}")
         print(f"  - Manual Annotations: {stats['manual_docs']:,}")
 
-        print("\n📝 ANNOTATION STATISTICS")
+        print("\nANNOTATION STATISTICS")
         print(f"  Total Annotations: {stats['total_annotations']:,}")
         print(f"  Unique CUIs: {stats['total_unique_cuis']:,}")
         print(f"  Avg Annotations per Document: {np.mean(stats['annotations_per_doc']):.2f}")
         print(f"  Median Annotations per Document: {np.median(stats['annotations_per_doc']):.2f}")
         print(f"  Min/Max Annotations: {min(stats['annotations_per_doc']) if stats['annotations_per_doc'] else 0} / {max(stats['annotations_per_doc']) if stats['annotations_per_doc'] else 0}")
 
-        print("\n🏷️  SYNONYM TYPE DISTRIBUTION")
+        print("\nSYNONYM TYPE DISTRIBUTION")
         total_types = sum(stats['synonym_type_distribution'].values())
         for syn_type, count in stats['synonym_type_distribution'].most_common():
             percentage = (count / total_types * 100) if total_types > 0 else 0
             print(f"  {syn_type:15s}: {count:6,} ({percentage:5.2f}%)")
 
-        print("\n📏 TEXT SPAN LENGTH STATISTICS")
+        print("\nTEXT SPAN LENGTH STATISTICS")
         if stats['text_span_lengths']:
             print(f"  Mean Length: {np.mean(stats['text_span_lengths']):.2f} characters")
             print(f"  Median Length: {np.median(stats['text_span_lengths']):.2f} characters")
             print(f"  Min/Max Length: {min(stats['text_span_lengths'])} / {max(stats['text_span_lengths'])} characters")
 
-        print("\n🔗 SYNONYM GROUP STATISTICS")
+        print("\nSYNONYM GROUP STATISTICS")
         print(f"  Total Synonym Groups: {stats['unique_synonym_groups']:,}")
         if stats['synonyms_per_group']:
             print(f"  Avg Synonyms per Group: {np.mean(stats['synonyms_per_group']):.2f}")
             print(f"  Median Synonyms per Group: {np.median(stats['synonyms_per_group']):.2f}")
             print(f"  Min/Max Synonyms: {min(stats['synonyms_per_group'])} / {max(stats['synonyms_per_group'])}")
 
-        print("\n🔝 TOP 10 MOST FREQUENT CONCEPTS")
+        print("\nTOP 10 MOST FREQUENT CONCEPTS")
         for cui, count in stats['cui_frequency'].most_common(10):
             label = self.synonym_groups.get(cui, {}).get('canonical_label', 'Unknown')
             print(f"  {cui}: {label[:40]:40s} ({count:4,} occurrences)")
@@ -457,7 +457,7 @@ def main():
     os.makedirs(output_dir, exist_ok=True)
 
     # 1. Dataset Statistics
-    print("📈 Computing Dataset Statistics...\n")
+    print("Computing Dataset Statistics...\n")
     stats_analyzer = DatasetStatistics(data_dir, synonym_groups_path)
     stats = stats_analyzer.print_statistics()
 
@@ -469,7 +469,7 @@ def main():
     with open(os.path.join(output_dir, "dataset_statistics.json"), 'w') as f:
         json.dump(stats_output, f, indent=2)
 
-    print(f"\n✅ Statistics saved to: {output_dir}/dataset_statistics.json")
+    print(f"\nStatistics saved to: {output_dir}/dataset_statistics.json")
 
     # 2. Example: Calculate baseline performance (placeholder)
     print("\n📊 Baseline systems initialized")
