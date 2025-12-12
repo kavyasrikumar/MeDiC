@@ -1,8 +1,6 @@
-"""
-Complete Statistical Analysis on Full Dataset
-==============================================
-Processes ALL annotations without sampling or icons
-"""
+# -------------------------------------------------------
+# Complete Statistical Analysis on Full Dataset
+# -------------------------------------------------------
 
 import json
 import os

@@ -104,14 +104,15 @@ def compare_predictions(predicted_anns, gold_anns, overlap_threshold=0.5):
     return tp, fp, fn
 
 
-def evaluate_threshold(matcher, docs, threshold):
+def evaluate_threshold(matcher, docs, threshold, min_confidence_gap=0.0):
     """Evaluate at specific threshold."""
     total_tp = 0
     total_fp = 0
     total_fn = 0
 
     for doc in docs:
-        predictions = matcher.predict_on_document(doc, threshold=threshold)
+        predictions = matcher.predict_on_document(doc, threshold=threshold,
+                                                  min_confidence_gap=min_confidence_gap)
         gold_anns = doc.get('annotations', [])
 
         tp, fp, fn = compare_predictions(predictions, gold_anns)
@@ -141,35 +142,48 @@ def main():
         print("ERROR: No cached embeddings found. Run evaluate_sapbert_sample.py first.")
         return
 
-    # Load dev set from official splits
-    # NOTE: Ensure you have run: git lfs pull --include="data/doc_splits/*.json"
+    # Load dev set from Kaggle dataset
     print("Loading development set...")
-    with open("data/doc_splits/dev.json", 'r') as f:
+    with open("data/kaggle_splits/dev.json", 'r') as f:
         docs = json.load(f)
-    print(f"   Loaded {len(docs)} documents")
+
+    # Use sample for faster testing (remove this line for full evaluation)
+    SAMPLE_SIZE = 50
+    docs = docs[:SAMPLE_SIZE]
+
+    print(f"   Loaded {len(docs)} documents (sample)")
     print()
 
-    # Test thresholds
-    thresholds = [0.5, 0.6, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95]
+    # Minimal filtering + realistic thresholds + confidence gaps
+    test_configs = [
+        {'threshold': 0.75, 'gap': 0.05, 'label': 'T=0.75 Gap=0.05'},
+        {'threshold': 0.80, 'gap': 0.05, 'label': 'T=0.80 Gap=0.05'},
+        {'threshold': 0.85, 'gap': 0.05, 'label': 'T=0.85 Gap=0.05'},
+        {'threshold': 0.75, 'gap': 0.10, 'label': 'T=0.75 Gap=0.10'},
+        {'threshold': 0.80, 'gap': 0.10, 'label': 'T=0.80 Gap=0.10'},
+        {'threshold': 0.85, 'gap': 0.10, 'label': 'T=0.85 Gap=0.10'},
+    ]
 
-    print("=" * 80)
-    print("TESTING THRESHOLDS")
-    print("=" * 80)
+    print("=" * 100)
+    print("TESTING THRESHOLDS WITH CONFIDENCE GAP")
+    print("=" * 100)
     print()
-    print(f"{'Threshold':>10} {'Precision':>10} {'Recall':>10} {'F1':>10} {'TP':>6} {'FP':>6} {'FN':>6}")
-    print("-" * 80)
+    print(f"{'Configuration':>25} {'Precision':>10} {'Recall':>10} {'F1':>10} {'TP':>6} {'FP':>6} {'FN':>6}")
+    print("-" * 100)
 
     results = []
-    for threshold in thresholds:
-        print(f"{threshold:>10.2f} ", end='', flush=True)
+    for config in test_configs:
+        print(f"{config['label']:>25} ", end='', flush=True)
 
-        metrics = evaluate_threshold(matcher, docs, threshold)
+        metrics = evaluate_threshold(matcher, docs, config['threshold'], config['gap'])
 
         print(f"{metrics['precision']:>10.4f} {metrics['recall']:>10.4f} {metrics['f1']:>10.4f} "
               f"{metrics['tp']:>6} {metrics['fp']:>6} {metrics['fn']:>6}")
 
         results.append({
-            'threshold': threshold,
+            'threshold': config['threshold'],
+            'confidence_gap': config['gap'],
+            'label': config['label'],
             **metrics
         })
 

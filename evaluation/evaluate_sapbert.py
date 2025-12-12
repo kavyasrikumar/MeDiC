@@ -227,12 +227,12 @@ def main():
     print("\nStep 2: Loading development set...")
     print("-" * 80)
 
-    # Load from official splits (ensure you have run: git lfs pull --include="data/doc_splits/*.json")
-    dev_set = load_dev_set("data/doc_splits/dev.json")
+    # Load from Kaggle dataset splits
+    dev_set = load_dev_set("data/kaggle_splits/dev.json")
 
     if dev_set is None:
         print("\nCannot proceed without development set.")
-        print("Please ensure data/doc_splits/dev.json is downloaded (not Git LFS pointer)")
+        print("Please ensure data/kaggle_splits/dev.json exists")
         return
 
     # Evaluate on sample first (for testing)
